@@ -387,7 +387,7 @@ export const friendshipLinks =
   name: "The New Leaf Journal",
   url: "https://thenewleafjournal.com/",
   avatar: "/images/blogroll/newleafjournal.jpg",
-  description: " Where the leaves are perennially virid"
+  description: " Where the leaves are perennially viridy"
 },
 
 {
