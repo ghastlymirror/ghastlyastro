@@ -441,10 +441,10 @@ export const comment = {
 
     // giscus config
     giscusConfig: {
-      'data-repo': "ghastlymirror/ghostgamer",
-      'data-repo-id': "R_kgDONK883A",
+      'data-repo': "ghastlymirror/ghastlyastro",
+      'data-repo-id': "R_kgDONS7skg",
       'data-category': "Announcements",
-      'data-category-id': "DIC_kwDONK883M4CkAUO",
+      'data-category-id': "DIC_kwDONS7sks4CkfYs",
       'data-mapping': "pathname",
       'data-strict': "0",
       'data-reactions-enabled': "1",
