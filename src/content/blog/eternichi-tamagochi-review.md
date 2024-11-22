@@ -9,7 +9,7 @@ tags:
     - fangame
     - indie
     - review
-
+toc: true
 donate: true
 comment: true
 preview: /images/blog/tamagotchi-pc.jpg
