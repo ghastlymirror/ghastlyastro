@@ -1,5 +1,5 @@
 ---
-title: Retro Reviews Callahan's Crosstime Saloon
+title: Retro Reviews, Callahan's Crosstime Saloon
 description: The 90s were the golden era of adventure games. And no game exemplifies this than Callahan´s Crosstime Saloon. 
 date: 2022-03-04
 category:
@@ -10,7 +10,7 @@ tags:
   - review
   - scifi
 preview: /images/blog/calahnc2b4s-saloon-cover1.jpg
-coverImage: /images/blog/calahnc2b4s-saloon-cover1.jpg
+image: /images/blog/calahnc2b4s-saloon-cover1.jpg
 ---
 ![game cover that says for callahan crosstime saloon](/images/blog/calahnc2b4s-saloon-cover1.jpg)
 
