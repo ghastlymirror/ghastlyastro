@@ -1,0 +1,101 @@
+---
+title: "Retro Reviews: Callahan's Crosstime Saloon"
+date: 2022-03-04
+categories: 
+  - "adventure"
+  - "gaming"
+  - "reviews"
+tags: 
+  - "comedy"
+  - "point-and-click"
+  - "puzzle"
+  - "retro"
+  - "scifi"
+coverImage: "calahnc2b4s-saloon-cover1.jpg"
+---
+
+The 90s were the golden era of adventure games. And no game exemplifies this than Callahan´s Crosstime Saloon. Made in 1997 by developed by Legend Entertainment, it was based on **a [series of books](https://www.goodreads.com/book/show/218677.Callahan_s_Crosstime_Saloon)** written by Spider Robinson. In fact, the author himself was involved in its development.
+
+* * *
+
+![A book cover of the novel crosstime saloon with a bartender serving drinksto a crowd of people](images/gXJPR5Q.jpg)
+
+* * *
+
+The series revolves around an interdimensional bar run by Mike Callahan and visited all sorts of folk, from aliens, time travels to vampires, who see a place to drink and share their worries. Basically a wackier and scifi version of [**Cheers**](https://www.imdb.com/title/tt0083399/).
+
+Every book focuses around a character or problem that the friendly regulars offer to help, and hey solving problems is what an Adventure Game is all about, so, it´s only logical this would get a adaptation
+
+At the start of the game, I found myself in the shoes of one Jake Stonebender, a talented folksinger with a tragic backstory on one of his visits to the bar. It starts pretty much what you expect on a regular night. I meet some of the colorful cast, solve a riddle (which is musically themed) and strike up a conversation.
+
+* * *
+
+![](https://cdn.rcimg.net/Ghostcat/images/7774ddea/6a2a6270f2af9bb0788b857c1b19632f.jpg?width=700)
+
+* * *
+
+As Jake, it is these conversations that lead him to a variety of fantastical situations to help his friends. Travelling to the Future to save an endangered species of cacao plant, end up in space, helping a heartbroken vampire, this pretty much the much epic night benders.
+
+Also the World is about end, according to the Creator of our Universe who just got informed by his superiors that they plan to terminate his "Project Universe" and needs our help to prove this place is worth being saved.
+
+![](images/95oyFmB.png)
+
+## **The Adventure Awaits...**
+
+The game is divided into several adventures that can be completed in any order The first one I picked was The Transylvania Adventure, and it ended being one of my favorites parts of the game
+
+Just look at it, this is basically a trip to Halloween Town.
+
+![](https://cdn.rcimg.net/Ghostcat/images/7774ddea/c2ac6e635ed385af81b0714b7d66b701.jpg?width=700)
+
+* * *
+
+So, Pytor, the bar´s resident vampire and designated driver has gone missing, but after digging around and smuggling Jake inside a box, I find that "Edward Cullen" here, just has nothing to unlive for. Not since he lost the woman of his dreams. And Jake has to make him snap out of it somehow.
+
+This place is amazing It even comes with its version of Callahan´s called Casimir, but for monsters. There are plenty of puns too. I remember having to deal with a skeleton shopkeeper trying to trick Jake into allowing him to eat his flesh.
+
+Not to mention, it´s here where the graphics truly shine. There is so much going on in the background, like is that a Werewolf playing cards, and even the gruesome but friendly looking aliens is endearing.
+
+![](images/95oyFmB.png)
+
+They´ve put so much detail into this game it´s nuts, almost every object you can hover with your mouse has a discrretion and a set of commands to react to, and even though it might not be useful, it does make the game feel more alive, and encourages exploration.
+
+I kid you not, the official manual even suggests getting Pytor the Vampire to react to things once when he is drunk, and again when he´s sober, I recommend it.
+
+The naviagation is no slouch either, this is played through first person view, and you can sidescroll through the screen and just click on doors to leave, saving the trouble all that backtracking.
+
+The inventory menu, funny enough fits the theme by having the shape of a bar countertop. You click on the beer handle to see other items.
+
+* * *
+
+## **Puns, puns everywhere....**
+
+But what I love most about this game is the humourous dialogue, all of it is voice with some very talended people (one them voiced King Graham in the King´s Quest Games) and there puns. so. many. puns. It can get really ridiculous just listen to this:
+
+https://www.youtube.com/watch?v=XP5aIoSYB2o&t=1s
+
+I would say the writting is one of strongests elements in this gaming, making it one of the most funnies adventure games I´ve played. Maybe we should have professional Novelists write game dialogue from now on.
+
+Puzzle solving in this game is extremely criative too, one of them involves creating your very own chocolate bar and even using tradional vampires weakness acording to the lore.
+
+This game isn´t really hard as long as you pay really attention to the dialogue. The only puzzle I struggled was with the word riddle, mostly because English is not my native language and I´m not very familiar with music bands I´m afraid.
+
+As the game progressed I got really attached to these characters, they seemed liked kind of people I wanna hang out and have a drink with. I was legitimately sad when the game ended. 
+
+Hey, at least it had a catchy theme song being played during the credits.
+
+https://www.youtube.com/watch?time\_continue=1&v=FLelE5G8mvo&feature=emb\_logo
+
+![](images/95oyFmB.png)
+
+##### Game Rating
+
+Despite this is being a very old game, the weird adventures, great humour and touching camaraderie between all these wacky and weird people suprasses most of the Puzzle Aventures games coming out nowadays. I found myself wanting to revisit this setting time and time. That´s 5 stars from me
+
+★★★★★
+
+## Game Links:
+
+[**The Collection Chamber**](https://collectionchamber.blogspot.com/2015/04/callahans-crosstime-saloon.html)
+
+**Copyright © (2022) ghastlymirror.wordpress.com – All rights reserved.**

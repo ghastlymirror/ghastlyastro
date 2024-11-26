@@ -3,16 +3,18 @@ title: Eternichi, A Tamagotchi That Lives on Your PC!
 description: Remember The Tamagotchi? Now you can raise one in this little fangame!
 date: 2022-03-02
 category:
-    - gaming
+  - gaming
 tags:
-    - simulation
-    - fangame
-    - indie
-    - review
+  - simulation
+  - fangame
+  - indie
+  - review
 toc: true
 donate: true
 comment: true
 preview: /images/blog/tamagotchi-pc.jpg
+slug: eternichi-tamagotchi-lives-pc
+
 ---
 ![Eternichi Game Cover](/images/blog/tamagotchi-pc.jpg#center)
 

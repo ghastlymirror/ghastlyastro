@@ -46,6 +46,7 @@ export const config = {
   lang: 'en', // en | zh-cn | zh-Hant | cs
   codeFoldingStartLines: 16, // Need to re-run the project to take effect
   ga: false, // If you want to integrate with Google Analytics, just enter your GA-ID here.
+  
 
   // memos config
   memosUrl: '', // https://xxxx.xxx.xx
@@ -449,7 +450,7 @@ export const comment = {
       'data-strict': "0",
       'data-reactions-enabled': "1",
       'data-emit-metadata': "0",
-      'data-input-position': "bottom",
+      'data-input-position': "top",
       'data-theme': "light",
       'data-lang': "en",
       'crossorigin': "anonymous",

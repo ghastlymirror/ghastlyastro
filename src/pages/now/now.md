@@ -4,7 +4,7 @@ comment: false
 ---
 
 ## Now 
-**Last Update:** 21th November 2024
+**Last Update:** 26th November 2024
 
 
 ### 🎮 Playing
@@ -12,7 +12,7 @@ comment: false
 Animal Crossing, A Witch´s Tale, Webfishing
 
 ### 📺 Watching
- King of the Hill, Delico´s Nursery, No Longer Allowed in Another World, Gremlins, Arcane, Lower Decks
+ King of the Hill, Delico´s Nursery, No Longer Allowed in Another World, Gremlins, Lower Decks, What We Do In The Shadows
 
 ### 📖 Reading
 Lord of the Rings, The Witcher: The Last Wish
