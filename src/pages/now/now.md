@@ -27,6 +27,10 @@ Lord of the Rings, The Witcher: The Last Wish
 
 - Uploading Let´s Play of Grim Fandango on Youtube
 
-- Transfering posts from my old Wordpress blog to this one
+- Transferring posts from my old Wordpress blog to this one
+
+### 🐦‍ Living
+
+Finally bought fertilizer for my orchids since it was running out, also this is like the third week I have deal with noise due to men fixing the roof, I hope it ends soon
 
 
