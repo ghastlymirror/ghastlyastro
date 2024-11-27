@@ -10,7 +10,7 @@ tags:
   - review
   - scifi
 preview: /images/blog/calahnc2b4s-saloon-cover1.jpg
-image: /images/blog/calahnc2b4s-saloon-cover1.jpg
+https://www.ghastlymirror.xyz/blog/crosstime/
 ---
 ![game cover that says for callahan crosstime saloon](/images/blog/calahnc2b4s-saloon-cover1.jpg)
 
