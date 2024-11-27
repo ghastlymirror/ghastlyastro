@@ -133,6 +133,12 @@ export const categories = [
         href: "/feed/1",
       },
 
+      {
+        name: "Disclaimer",
+        iconClass: "ri-megaphone-line",
+        href: "/disclaimer",
+      },
+
     ]
   }
 ]
