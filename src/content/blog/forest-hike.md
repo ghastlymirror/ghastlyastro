@@ -1,6 +1,8 @@
 ---
 title: Nature Photography, Forest Hike
 date: 2022-03-08
+description: I decided to take some cool photos during a cool a nature hike
+
 category:
   - photography
 tags:

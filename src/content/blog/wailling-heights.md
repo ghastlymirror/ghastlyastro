@@ -1,6 +1,8 @@
 ---
 title: Wailing Heights Video Walkthrough Part 1
 date: 2022-03-05
+description: Here it is the walkthrought for the game Wailing Heights. A spooky adventure game with a musical twist!
+
 category: 
   - gaming
  

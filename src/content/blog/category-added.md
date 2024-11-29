@@ -1,6 +1,8 @@
 ---
 title: Blog Update, Photography Category Added
 date: 2022-03-07
+
+description: Added anew category to the site
 category: 
   - blogging
 tags: 
