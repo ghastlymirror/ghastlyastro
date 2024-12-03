@@ -1,6 +1,6 @@
 ---
 title: Top 5 Adventure Games for Lucas Arts Fans
-description: Lucas Arts was an adventure game staple in the 80s and 90s. Here´s some games that give a similar vibe
+description: Lucas Arts was an adventure game staple in the 80s and 90s. Here´s some games that give a similar vibe.
 date: 2022-03-12
 category:
   - gaming
