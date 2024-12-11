@@ -30,5 +30,5 @@ Players control "Bite Me " Finklestein, the ex-manager of the now defunct band, 
 
 In the meanwhile, they get to explore an interesting world of Ghosts and Ghouls.
 
-### [Next Video](https://www.ghastlymirror.xyz/blog/wailling-heights)
+### [Next Video](https://www.ghastlymirror.xyz/blog/wailling-heights2)
 
