@@ -4,7 +4,7 @@ date: 2022-03-15
 description: A continuation of this walkthrought where I possess a vampire to become a werewolf, makes sense in context.
 category:
   - gaming
-  - walkthrough
+ 
 tags:
   - indie
   - puzzle
