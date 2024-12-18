@@ -2,7 +2,7 @@
 title: The Longing Review, A Game About Being Alone in a Cave
 image: /images/blog/the-longing-game-cover.jpg
 
-description: I´ve played this game last year, back at the height of the Pandemic Lockdown, and I would often videogames as a way to cope with that. But no game resonated with me more than a small indie game called The Longing by Studio Seufz.
+description: I´ve played this game last year, back at the height of the Pandemic Lockdown, and I would often use videogames as a way to cope with that. But no game resonated with me more than a small indie game called The Longing by Studio Seufz.
 
 date: 2022-03-28
 
@@ -21,7 +21,7 @@ preview: /images/blog/the-longing-game-cover.jpg
 ---
 ![The Longing Game Cover](/images/blog/the-longing-game-cover.jpg)
 
-I´ve played this game last year, back at the height of the Pandemic Lockdown, and I would often videogames as a way to cope with that. But no game resonated with me more than a small indie game called The Longing by Studio Seufz.
+I´ve played this game last year, back at the height of the Pandemic Lockdown, and I would often use videogames as a way to cope with that. But no game resonated with me more than a small indie game called The Longing by Studio Seufz.
 
 If I had to describe it it´s basically a Tamagotchi meets idle gameplay meets exploration game with light puzzling on the side.
 
