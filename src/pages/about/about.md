@@ -25,9 +25,9 @@ When not exploring virtual worlds, I like to go on nature hikes and bird watchin
 
 ## About This Site
 
-This place started life as a wordpress.com blog in 2022, and has sicne changed hosts (and a brand new layout).
+This place started life as a wordpress.com blog in 2022, and has since changed hosts (and a brand new layout).
  I simply wanted to get into traditional long form blogging, as an alternative to just using social media all the time to express myself. 
-What kinda of posts you can expect to see: gaming reviews (old and retro), playthroughts, photography and any other of my personal projects.
+What kinda of posts you can expect to see: gaming reviews (new and retro), playthroughts, photography and any other of my personal projects.
 
 ### Sister Site:
  <a href="https://creaturefeature.neocities.org/"><img src="/creaturefeaturebutton.png" title="Creature Feature: an Halloween Personal Website"></a>
