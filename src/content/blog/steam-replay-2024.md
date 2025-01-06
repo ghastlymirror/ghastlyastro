@@ -5,8 +5,10 @@ date: 2024-12-27
 image: /images/2024/steamreplay2024.png
 category:
     - gaming
-tags:
     - review
+tags:
+    - backlog
+    
 toc: true
 donate: true
 comment: true

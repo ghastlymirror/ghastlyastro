@@ -4,11 +4,12 @@ description: Last Week I´ve been playing this interesting game called Roki. It 
 date: 2022-03-20
 category:
   - gaming
+  - review
 tags:
   - adventure
   - indie
   - puzzle
-  - review
+  
 
 preview: /images/blog/roki-1.jpg
 ---

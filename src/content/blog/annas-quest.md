@@ -3,11 +3,12 @@ title: Anna´s Quest Full Video Walkthrought
 date: 2022-03-03
 category:
   - gaming
+  - walkthrough
 tags:
   - adventure
   - indie
   - puzzle
-  - walkthrough
+ 
 description: This a playlist of my completed walkthrough of Anna´s Quest, a point and click adventure with a fairy tale theme.
 preview: /images/blog/anna-quest.jpg
 toc: true

@@ -4,11 +4,10 @@ date: 2022-03-15
 description: A continuation of this walkthrought where I possess a vampire to become a werewolf, makes sense in context.
 category:
   - gaming
- 
+  - walkthrough
 tags:
   - indie
   - puzzle
-  - walkthrough
   - horror
 toc: true
 donate: true
@@ -26,5 +25,7 @@ I also found one the ex-members of the band! She looks kinda green around the gi
 So now I gotta figure out how to reach them, which is easier said than done.
 
 ### [Previous Video](https://www.ghastlymirror.xyz/blog/wailling-heights)
+
+### [Next Video](https://www.ghastlymirror.xyz/blog/wailing-heights3)
 
 

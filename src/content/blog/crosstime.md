@@ -4,10 +4,10 @@ description: The 90s were the golden era of adventure games. And no game exempli
 date: 2022-03-04
 category:
   - gaming
+  - review
 tags:
   - puzzle
   - retro
-  - review
   - scifi
 preview: /images/blog/calahnc2b4s-saloon-cover1.jpg
 

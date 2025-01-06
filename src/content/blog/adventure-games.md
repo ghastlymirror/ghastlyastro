@@ -4,6 +4,7 @@ description: Lucas Arts was an adventure game staple in the 80s and 90s. Here´s
 date: 2022-03-12
 category:
   - gaming
+  - review
 tags: 
 - adventure 
 - indie 

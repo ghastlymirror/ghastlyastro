@@ -4,11 +4,12 @@ description: Remember The Tamagotchi? Now you can raise one in this little fanga
 date: 2022-03-02
 category:
   - gaming
+  - review
 tags:
   - simulation
   - fangame
   - indie
-  - review
+  
 toc: true
 donate: true
 comment: true

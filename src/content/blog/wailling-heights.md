@@ -5,10 +5,10 @@ description: Here it is the walkthrought for the game Wailing Heights. A spooky 
 
 category: 
   - gaming
+  - walkthrough
  
 tags: 
   - indie
-  - walkthrough
   - puzzle
   - horror
 
