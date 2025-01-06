@@ -40,7 +40,7 @@ What kinda of posts you can expect to see: gaming reviews (new and retro), playt
 <Img src="/blaugust2022-newbie.png" width="200">
 <a href="https://aggronaut.com/2022/09/01/blaugust-2022-in-review/">Blaugust 2022 Newbie Award</a>
 
-<img src="blaugust2022-silver.png" width="200">
+<img src="/blaugust2022-silver.png" width="200">
 <a href="https://aggronaut.com/2022/09/01/blaugust-2022-in-review/">Blaugust 2022 Newbie Award</a>
 
 <img src="/Blaugust-2023-Bronze.png" width="200">
