@@ -26,4 +26,6 @@ I also meet another acquaintance who has become let´s pale around the gills?
 
 ### [Previous Video](https://www.ghastlymirror.xyz/blog/wailing-heights2)
 
+### [Next Video](https://www.ghastlymirror.xyz/blog/wailing-heights4)
+
 
