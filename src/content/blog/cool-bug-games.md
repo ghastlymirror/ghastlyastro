@@ -7,7 +7,7 @@ category:
   - review
 tags:
   - indie
-  - bugs
+  - insects
   - metroidvania
   - rpg
   - simulation
@@ -66,8 +66,6 @@ Not only is Yoku fun to play but probably the best way to introduce this genre t
 
 ### Game Links
 
-
-[**Steam**](https://store.steampowered.com/app/33)
 [Steam](https://store.steampowered.com/app/334940/Yokus_Island_Express/) / [**GOG**](https://www.gog.com/en/game/yokus_island_express)
 
 
@@ -85,7 +83,7 @@ Also, its mechanics and cute 2D paper cutout style actually reminded me of Paper
 
 ### Game Links
 
-[**Steam**](https://store.steampowered.com/app/1082710/Bug_Fables_The_Everlasting_Sapling/)/ [**GOG**](https://www.gog.com/game/bug_fables_the_everlasting_sapling)
+[**Steam**](https://store.steampowered.com/app/1082710/Bug_Fables_The_Everlasting_Sapling/) / [**GOG**](https://www.gog.com/game/bug_fables_the_everlasting_sapling)
 
 ## 4.Empires of the Undergrowth
 
@@ -101,7 +99,7 @@ You can even say this is an educational game based on its realistic ant behavior
 
 **Game Links:**
 
-[**Steam**](https://store.steampowered.com/app/463530/Empires_of_the_Undergrowth/)/ [**GOG**](https://www.gog.com/game/empires_of_the_undergrowth)
+[**Steam**](https://store.steampowered.com/app/463530/Empires_of_the_Undergrowth/) / [**GOG**](https://www.gog.com/game/empires_of_the_undergrowth)
 
 ## 5.Metamorphosis
 
