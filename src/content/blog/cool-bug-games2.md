@@ -103,7 +103,7 @@ This is an ideal game if you´re looking for something relaxing.
 
 ![poster for frightned beetles](/images/2022/beetlesjump.jpg#center)
 
-his is a really short game, but I thought it was interesting enough to put on this list.
+This is a really short game, but I thought it was interesting enough to put on this list.
 
 This is a cute 2-d game where you play as a bunch of beetles trying to fly away while dealing with a bunch of obstacles.
 
