@@ -14,7 +14,7 @@ This page is where I give updates about what goes on with my life. Original idea
 Animal Crossing, A Witch´s Tale, Webfishing, Grim Fandango, Nightmare Before Christmas: Rise of the Pumpkin King, Pokemon Seaglass, Piglet´s Big Game
 
 ### 📺 Watching
- King of the Hill, Delico´s Nursery, No Longer Allowed in Another World, Gremlins, [O Beijo Do Vampiro](https://novelasflixbr.net/novelas/o-beijo-do-vampiro/), Sakamoto Days, Delicious in Dungeon
+ King of the Hill, Delico´s Nursery, Gremlins, [O Beijo Do Vampiro](https://novelasflixbr.net/novelas/o-beijo-do-vampiro/), Sakamoto Days, Delicious in Dungeon
 
 ### 📖 Reading
 Lord of the Rings, The Witcher: Sword of Destiny, Ring Shout by P. Djeli Clark, The Hogfather
