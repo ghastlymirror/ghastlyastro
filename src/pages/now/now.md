@@ -6,7 +6,7 @@ comment: false
 ## Now 
 This page is where I give updates about what goes on with my life. Original idea by [**Derek Sivers**](https://sive.rs/nowff)
 
-**Last Update:** 12th January 2025
+**Last Update:** 17th January 2025
 
 
 ### 🎮 Playing
@@ -14,10 +14,10 @@ This page is where I give updates about what goes on with my life. Original idea
 Animal Crossing, A Witch´s Tale, Webfishing, Grim Fandango, Nightmare Before Christmas: Rise of the Pumpkin King, Pokemon Seaglass, Piglet´s Big Game
 
 ### 📺 Watching
- King of the Hill, Delico´s Nursery, Gremlins, [O Beijo Do Vampiro](https://novelasflixbr.net/novelas/o-beijo-do-vampiro/), Sakamoto Days, Delicious in Dungeon
+ King of the Hill, Delico´s Nursery, Gremlins, [O Beijo Do Vampiro](https://novelasflixbr.net/novelas/o-beijo-do-vampiro/), Sakamoto Days, Delicious in Dungeon, Severance, Castlevania Nocturne
 
 ### 📖 Reading
-Lord of the Rings, The Witcher: Sword of Destiny, Ring Shout by P. Djeli Clark, The Hogfather
+Lord of the Rings, Ring Shout by P. Djeli Clark, The Fifth Elephant by Terry Pratchett
 
 ### 🎙️ Podcasts 
  The Adventure Zone, Murray Mysteries
@@ -31,6 +31,6 @@ Lord of the Rings, The Witcher: Sword of Destiny, Ring Shout by P. Djeli Clark, 
 
 ### 🐦‍ Living
 
-Been trying to work out on what my new years resolution are, also been doing some pest control over my plants since there´s been an aphid infestation lately
+Bought new Fish for my Tank
 
 
