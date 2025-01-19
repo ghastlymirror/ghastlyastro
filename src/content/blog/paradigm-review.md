@@ -14,7 +14,7 @@ toc: true
 donate: true
 comment: true
 preview: /images/blog/paradigm-game.jpg
-image: /images/blog/paradigm-game.jpg
+
 ---
 ![Paradigm Game Cover](/images/blog/paradigm-game.jpg)
 
