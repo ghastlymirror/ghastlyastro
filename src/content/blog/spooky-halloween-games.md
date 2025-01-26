@@ -4,7 +4,6 @@ description: October is finally here, the season for Halloween,  candy, costumes
 date: 2020-10-28
 image: {
     src: "/images/2022/flippingdeath.jpg",
-    alt: "A cartoony Grim Reaper with the Title Flipping Death"
 }
 preview: /images/2022/flippingdeath.jpg
 draft: false
