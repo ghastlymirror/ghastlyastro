@@ -6,15 +6,15 @@ comment: false
 ## Now 
 This page is where I give updates about what goes on with my life. Original idea by [**Derek Sivers**](https://sive.rs/nowff)
 
-**Last Update:** 17th January 2025
+**Last Update:** 24th January 2025
 
 
 ### 🎮 Playing
 
-Animal Crossing, A Witch´s Tale, Webfishing, Grim Fandango, Nightmare Before Christmas: Rise of the Pumpkin King, Pokemon Seaglass, Piglet´s Big Game
+Animal Crossing, A Witch´s Tale, Webfishing, Grim Fandango, Nightmare Before Christmas: Rise of the Pumpkin King, Pokemon Seaglass, Piglet´s Big Game, Panel De Pon
 
 ### 📺 Watching
- King of the Hill, Delico´s Nursery, Gremlins, [O Beijo Do Vampiro](https://novelasflixbr.net/novelas/o-beijo-do-vampiro/), Sakamoto Days, Delicious in Dungeon, Severance, Castlevania Nocturne
+ King of the Hill, Delico´s Nursery, Gremlins, [O Beijo Do Vampiro](https://novelasflixbr.net/novelas/o-beijo-do-vampiro/), Sakamoto Days, Delicious in Dungeon, Severance, 
 
 ### 📖 Reading
 Lord of the Rings, Ring Shout by P. Djeli Clark, The Fifth Elephant by Terry Pratchett
@@ -31,6 +31,6 @@ Lord of the Rings, Ring Shout by P. Djeli Clark, The Fifth Elephant by Terry Pra
 
 ### 🐦‍ Living
 
-Bought new Fish for my Tank
+Gave my House some Deep cleaning, also I found out some of my fish were sick due to a parasite so i gave them medicine in hopes to cure them
 
 
