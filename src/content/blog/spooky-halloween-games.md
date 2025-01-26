@@ -2,6 +2,10 @@
 title: Spooky Games To Play On Halloween For Non Horror Fans
 description: October is finally here, the season for Halloween,  candy, costumes, and horror movies and perfect for spooky gaming. Here´s my recomendations.
 date: 2020-10-28
+image: {
+    src: "/images/2022/flippingdeath.jpg",
+    alt: "A cartoony Grim Reaper with the Title Flipping Death"
+}
 preview: /images/2022/flippingdeath.jpg
 draft: false
 tags:
