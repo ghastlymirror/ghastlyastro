@@ -23,6 +23,11 @@
           "type": "string"
         },
         {
+          "title": "URL",
+          "name": "url",
+          "type": "image"
+        },
+        {
           "title": "Publishing date",
           "name": "date",
           "type": "datetime",
