@@ -23,11 +23,6 @@
           "type": "string"
         },
         {
-          "title": "URL",
-          "name": "url",
-          "type": "image"
-        },
-        {
           "title": "Publishing date",
           "name": "date",
           "type": "datetime",
@@ -37,8 +32,7 @@
         {
           "title": "Content preview",
           "name": "preview",
-          "type": "image",
-          "isPreviewImage": true
+          "type": "image"
         },
         {
           "title": "Is in draft",
