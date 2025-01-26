@@ -3,9 +3,8 @@ title: Drawtober
 description: ""
 date: 2022-10-27
 preview: ""
-draft: false
+draft: true
 tags: []
-
 category: []
 toc: true
 donate: true
