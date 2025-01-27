@@ -10,7 +10,7 @@ tags:
 toc: false
 donate: true
 comment: true
-ogImage: 
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ggsOFT7mlFI?si=Vqo7NqTlE8TBLQ4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
