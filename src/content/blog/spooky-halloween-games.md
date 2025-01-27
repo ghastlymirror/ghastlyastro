@@ -185,7 +185,7 @@ You get to wear a skeleton costume, play pranks on the students, smash some pump
 
 ![A bunch of school students wearing halloween costumes](/images/2022/bullyhalloween.jpg#center)
 
-## Finaly Thoughts
+## Final Thoughts
 
 So, there you have it, a bunch of spooky theme games enough to tide players over this season, specially when you´re celebrating it at home or not live in a place where it is a cultural tradition.
 
