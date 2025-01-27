@@ -68,7 +68,8 @@
           "title": "comment",
           "name": "comment",
           "type": "boolean"
-        }
+        },
+       
       ]
     }
   ]
