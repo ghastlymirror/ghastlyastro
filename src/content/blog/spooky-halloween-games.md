@@ -17,6 +17,7 @@ toc: true
 donate: true
 comment: true
 preview: /images/2022/flippingdeath.jpg
+ogImage: /images/2022/flippingdeath.jpg
 ---
 October is finally here, the time of pumpkin carving, Halloween decorations, candy costumes, and horror movie marathons. And the perfect time to play some spooky games.
 
