@@ -1,7 +1,7 @@
 ---
 title: A Butterfly Visit
 date: 2022-07-17
-categories:
+category:
   - blogging
   - photography
 tags:
