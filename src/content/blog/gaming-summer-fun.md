@@ -9,6 +9,7 @@ tags:
   - indie
   - puzzle
   - visual novel
+  - simulation
   - blaugust
 comment: true
 donate: true
