@@ -14,7 +14,7 @@ comment: true
 donate: true
 toc: true
 preview: /images/2022/cozygroove.jpg
-
+description: Its summer, the perfect time to relax, hang out with friends and travel around. Also the perfect time for games, here´s a couple of virtual summer destinations.
 ---
 
 It´s summer, the perfect time to relax, go to the beach, get together with friends, or maybe travel somewhere.  
