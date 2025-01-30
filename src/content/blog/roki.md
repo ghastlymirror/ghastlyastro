@@ -1,6 +1,6 @@
 ---
 title: Röki Game Review, An Adventure Based on Scandinavian Folkore
-description: Last Week I´ve been playing this interesting game called Roki. It called my interest for being based in Scandinavian folkore.
+description: Last Week I´ve been playing this interesting game called Roki. It called my interest for being based in Scandinavian folkore like trolls or other monster types.
 date: 2022-03-20
 category:
   - gaming
@@ -9,8 +9,6 @@ tags:
   - adventure
   - indie
   - puzzle
-  
-
 preview: /images/blog/roki-1.jpg
 ---
 ![Roki Poster](/images/blog/roki-1.jpg)
