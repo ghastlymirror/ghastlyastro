@@ -5,16 +5,15 @@ description: A continuation of my previous list, Here we go more bug themed game
 category:
   - gaming
   - review
-  
 tags:
   - indie
   - insects
   - puzzle
   - simulation
-
 toc: true
 donate: true
 comment: true
+preview: /images/2022/spidermoon.jpg
 ---
 
 A continuation of my previous list, Here we go more bug themed games, for people to check out.
