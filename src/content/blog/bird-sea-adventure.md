@@ -16,7 +16,7 @@ draft: true
 ![a seagull in the water](images/52260217023_c927303569_c.jpg)
 
 There´s this port that is one of my favorite hangouts, as it offers me plenty of opportunities to go and check the local sea birds. There´s a variety of them, from your average seagull, to sandpipers, egrets and even cormorants.
-g
+
 ![](images/XLIltwg.png)
 
 ![a sea harbour with boats](images/52260200151_62b2c77b61_c.jpg)
