@@ -1,23 +1,17 @@
 ---
 title: Wailing Heights Video Walkthrough Part 1
 date: 2022-03-05
-description: Here it is the walkthrought for the game Wailing Heights. A spooky adventure game with a musical twist!
-
-category: 
+description: "Here it is the walkthrought for the game Wailing Heights. A spooky adventure game with a musical twist!  By taking over several creatures of the night "
+category:
   - gaming
   - walkthrough
- 
-tags: 
+tags:
   - indie
   - puzzle
   - horror
-
-
-
 toc: true
 donate: true
 comment: true
-
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RkK0neYB4lc?si=j7j9PpA0afGufV0f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -1,12 +1,13 @@
 ---
 title: This Blog Has Moved! And Other News.
-description: After Months of procrastinating I finally left wordpress.com and got exciting news for the future of this blog.
+description: After Months of procrastinating I finally left wordpress.com and found a new host. Also got some exciting news for the future of this blog.  To New Beginnings!
 date: 2024-11-15
-category: ["blogging"]
-tags: ["updates"]
+category:
+    - blogging
+tags:
+    - updates
 donate: true
 comment: true
-  
 ---
 After Months and Months of trying to decided where to move and what layout to use I finally did it.
 As you can see, first off its got a shiny new layout! Granted it´s not as colorful, but it does its job, and hopefully it´s acessible.

@@ -1,14 +1,12 @@
 ---
 title: Blog Update, Photography Category Added
 date: 2022-03-07
-
-description: Added a new category to the site
-category: 
+description: This blog has been around for week, and I´ve already made progress so far. In this case, I added a new category to the site as a much needed improvement.
+category:
   - blogging
-tags: 
+tags:
   - updates
   - writting
-
 toc: true
 donate: true
 comment: true

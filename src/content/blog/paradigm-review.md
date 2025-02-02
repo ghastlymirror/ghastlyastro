@@ -1,7 +1,7 @@
 ---
 title: Paradigm, A Very, Very Surreal Game
 date: 2022-06-27
-description: I´m at it again, with another Game review about a surreal adventure game called Paradigm developed by Jacob Janerka. I got this one a while ago, and figured I would talk about it here.
+description: I´m at it again, with another Game review about a surreal adventure game called Paradigm developed by Jacob Janerka, which I´ve bought sometime ago on a bundle.
 category:
   - gaming
   - review
@@ -9,12 +9,10 @@ tags:
   - scifi
   - indie
   - puzzle
- 
 toc: true
 donate: true
 comment: true
 preview: /images/blog/paradigm-game.jpg
-
 ---
 ![Paradigm Game Cover](/images/blog/paradigm-game.jpg)
 

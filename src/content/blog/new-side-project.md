@@ -7,8 +7,7 @@ tags:
   - coding
   - updates
   - writting
-description: I´ve been focusing mostly in crafting and old-school website on neocities
-
+description: I´ve been focusing mostly in crafting and old-school website on neocities. Here´s what motivated me to take the leap to coding a personal homepage of my own.
 ---
 
 If you´re one of the few people who has been following this blog for some time, you might have noticed I haven´t posted for a while...

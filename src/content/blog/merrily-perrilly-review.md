@@ -8,7 +8,7 @@ tags:
   - indie
   - puzzle
   - casual
-description: A funny but short little game where the objective is to survive for as long as possible, using the most wacky and complicated ways.
+description: A funny but short little game where the objective is to survive for as long as possible, using the most wacky and complicated ways.  How long can I last?
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c6CDsxohsRE?si=dt5i76a5uwPRSqaE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

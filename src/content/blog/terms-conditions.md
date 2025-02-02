@@ -1,12 +1,12 @@
 ---
 title: Blog Update, Image Terms and Conditions
-description: After I made my first photography blog post I realized I yet to have posted terms and conditions for the use of my images.
+description: After I made my first photography blog post I realized I yet to have posted terms and conditions for the use of my images. So here´s the dos and don´t for here.
 date: 2022-03-27
 category:
   - blogging
   - photography
-tags: 
-- updates
+tags:
+  - updates
 toc: true
 donate: true
 comment: true

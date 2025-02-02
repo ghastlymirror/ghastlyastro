@@ -1,6 +1,6 @@
 ---
 title: Retro Reviews, Callahan's Crosstime Saloon
-description: The 90s were the golden era of adventure games. And no game exemplifies this than Callahan´s Crosstime Saloon. 
+description: The 90s were the golden era of adventure games. And no game exemplifies this than Callahan´s Crosstime Saloon. Where Cheers meets Multiverse shenanigans.
 date: 2022-03-04
 category:
   - gaming
@@ -10,7 +10,6 @@ tags:
   - retro
   - scifi
 preview: /images/blog/calahnc2b4s-saloon-cover1.jpg
-
 ---
 ![game cover that says for callahan crosstime saloon](/images/blog/calahnc2b4s-saloon-cover1.jpg)
 

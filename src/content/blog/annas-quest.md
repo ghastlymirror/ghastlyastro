@@ -8,13 +8,11 @@ tags:
   - adventure
   - indie
   - puzzle
- 
-description: This a playlist of my completed walkthrough of Anna´s Quest, a point and click adventure with a fairy tale theme.
+description: This a playlist of my completed walkthrough of Anna´s Quest, a point and click adventure with a fairy tale theme. May it help with your puzzle solving.
 preview: /images/blog/anna-quest.jpg
 toc: true
 donate: true
 comment: true
-
 ---
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?si=VZxOdmvssi4X8nsL&amp;list=PLcR7E3BWUMP29JnkjoBjNamqKkpWX1FGH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

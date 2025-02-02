@@ -1,6 +1,6 @@
 ---
 title: Blog Update, Recommended Sites
-description: In a stroke of inspiration, I decided to add a couple of interesting sites on my navigation, seeing as other palces have their own blogrolls.
+description: In a stroke of inspiration, I decided to add a couple of interesting sites on my navigation, seeing as other palces have their own blogrolls. Have fun exploring
 date: 2022-03-21
 category:
   - blogging
