@@ -52,7 +52,6 @@ Another way to tell them apart? They´re much smaller than regular gulls. As you
 
 This all I got for now, hopefully, I might go there again when I have the time and maybe who knows, I might find something interesting.
 
-*Photos were taken with a Canon EOS 500D with a Zoom Lens EF 70-300mm IS USM
-*
+*Photos were taken with a Canon EOS 500D with a Zoom Lens EF 70-300mm IS USM*
 
 
