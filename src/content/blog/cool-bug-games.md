@@ -10,6 +10,7 @@ tags:
   - metroidvania
   - rpg
   - simulation
+  - insects
 toc: true
 donate: true
 comment: true
