@@ -7,7 +7,6 @@ category:
   - review
 tags:
   - indie
-  - insects
   - metroidvania
   - rpg
   - simulation
