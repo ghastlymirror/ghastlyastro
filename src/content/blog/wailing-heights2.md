@@ -1,7 +1,7 @@
 ---
 title: Wailing Heights Video Walkthrough Part 2
 date: 2022-03-15
-description: "A continuation of this walkthrought series where I possess a vampire to become a werewolf , and meet an old friend  who seems a little green around the gills.  "
+description: A continuation of this walkthrought series where I possess a vampire to become a werewolf , and meet an old friend  who seems a little green around the gills.  
 category:
   - gaming
   - walkthrough
