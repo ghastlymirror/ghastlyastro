@@ -1,5 +1,5 @@
 ---
-title: Cool Bug Video Games to Play Part 1
+title: Cool Bug Video Games to Play - Part 1
 date: 2022-05-16
 description: As a kid, I was always fascinated by insects, and no doubt it was influenced by their presence in pop culture such as cartoons like (bugs life) or video games. 
 category:
