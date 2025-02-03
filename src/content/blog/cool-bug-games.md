@@ -25,7 +25,6 @@ Due to this, I decided to take it upon myself and look into what kinds of other 
 
 ## 1.Hollow Knight
 
-
 ![hollow knight poster](/images/2022/hollow%20knight.jpg)
 
 With a platform-style gameplay and challenging combat. There is a lot to see and explore.
@@ -45,9 +44,6 @@ One word of warning, this is a really challenging game but the way this was crea
 
 [**Steam**](https://store.steampowered.com/app/367520/Hollow_Knight/) / [**GOG**](https://www.gog.com/en/game/hollow_knight)
 
-
-
-
 ## 2.Yoku´s Island Express
 
 ![yoku´s express poster](/images/2022/yokuislandexpress.jpg)
@@ -65,7 +61,6 @@ Not only is Yoku fun to play but probably the best way to introduce this genre t
 ### Game Links
 
 [Steam](https://store.steampowered.com/app/334940/Yokus_Island_Express/) / [**GOG**](https://www.gog.com/en/game/yokus_island_express)
-
 
 ## 3.Bug Fables
 
