@@ -6,6 +6,7 @@ category:
 tags:
   - birds
   - nature
+  - blaugust
 toc: true
 donate: true
 comment: true
