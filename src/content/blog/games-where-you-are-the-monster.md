@@ -8,7 +8,6 @@ tags:
   - adventure
   - horror
   - scifi
-  - stealth
   - blaugust
 preview: /images/blog/stubsthezombie.jpg
 toc: true
