@@ -1,5 +1,5 @@
 ---
-title: Steam Replay 2024, a Year in Gaming
+title: Steam Replay 2024 - A Year in Gaming
 description: Another year has passed and since we´re near the end of 2024, and one thing I like to do is do a full review on how I did tackling the dreaded backlog. 
 date: 2024-12-27
 image: /images/2024/steamreplay2024.png
