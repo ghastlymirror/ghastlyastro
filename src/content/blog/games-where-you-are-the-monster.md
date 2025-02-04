@@ -14,7 +14,7 @@ preview: /images/blog/stubsthezombie.jpg
 toc: true
 donate: true
 comment: true
-description: Wanna to dip your toes into dark and horror games, but you hate running away from scary monsters? How about titles where you get to be what bumps in the night  guy instead?
+description: Wanna to dip your toes into dark and horror games, but you hate running away from scary monsters? How about titles where you get to be the bad guy instead?
 ---
 
 Halloween is almost half-way here (yeah I know it´s still Summer sue me) and it is the perfect time to try a few horror titles. But I´m a bit of a chicken when it comes to playing the horror stuff, so I thought to myself why play a game where you´re trying to escape awful monsters when you can play as one yourself?
