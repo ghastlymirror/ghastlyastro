@@ -13,6 +13,7 @@ comment: true
 description: There´s this port that is one of my favorite hangouts, as it offers me plenty of opportunities to go and check the local sea birds, from Seagulls to Cormorants.
 
 preview: /images/blog/blackheadgull.jpg
+ogImage: /images/blog/blackheadgull.jpg
 ---
 
 ![a seagull in the water](/images/blog/blackheadgull.jpg)

@@ -10,6 +10,8 @@ tags:
   - puzzle
 description: This a playlist of my completed walkthrough of Anna´s Quest, a point and click adventure with a fairy tale theme. May it help with your puzzle solving.
 preview: /images/blog/anna-quest.jpg
+ogImage: /images/blog/anna-quest.jpg
+
 toc: true
 donate: true
 comment: true

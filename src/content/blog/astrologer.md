@@ -10,6 +10,7 @@ tags:
   - visual-novel
   - blaugust
 preview: /images/blog/astrologer.jpg
+ogImage: /images/blog/astrologer.jpg
 toc: true
 donate: true
 comment: true
@@ -78,8 +79,7 @@ Even though it can be played on the pc, I recommend playing a mobile IOS/Switch 
 
 ## Game Links
 
-[**Steam**](https://store.steampowered.com/app/742520/Astrologaster/) / [**itch.io**](https://nyamyam.itch.io/astrologaster) / [**GOG**](https://www.gog.com/game/astrologaster)
-
+:btn[**Steam**]{href="https://store.steampowered.com/app/742520/Astrologaster/"}  :btn[**GOG**]{href="https://www.gog.com/game/astrologaster"}  :btn[**Itch.io**]{href="https://nyamyam.itch.io/astrologaster"} 
 
 
 

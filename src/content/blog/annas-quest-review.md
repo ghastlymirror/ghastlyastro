@@ -13,7 +13,7 @@ toc: true
 donate: true
 comment: true
 preview: /images/blog/anna-quest.jpg
-image: /images/blog/anna-quest.jpg
+ogImage: /images/blog/anna-quest.jpg
 ---
 ![Anna Quest Game Cover](/images/blog/anna-quest.jpg)
 
@@ -86,7 +86,5 @@ However, I feel that this game is more suited to a younger audience, probably no
 
 ## **Game Links**
 
-[**Humble Bundle**](https://www.humblebundle.com/store/annas-quest?partner=ghastlymirror) / [**GOG**](https://www.gog.com/game/annas_quest) / [**Steam**](https://store.steampowered.com/app/327220/Annas_Quest/)
-
-*Disclaimer: The Humble Bundle Link in this post is affiliated, this means I receive a commission every time someone makes a purchase through it at no extra cost and it will go towards supporting this blog.*
+:btn[**Steam**]{href="https://store.steampowered.com/app/327220/Annas_Quest/"}  :btn[**GOG**]{href="https://www.gog.com/game/annas_quest"} 
 

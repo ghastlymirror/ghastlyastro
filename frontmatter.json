@@ -69,7 +69,11 @@
           "name": "comment",
           "type": "boolean"
         },
-       
+        {
+          "title": "ogImage",
+          "name": "ogImage",
+          "type": "image"
+        }
       ]
     }
   ]

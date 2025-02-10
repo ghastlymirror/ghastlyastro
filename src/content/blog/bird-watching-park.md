@@ -7,6 +7,7 @@ tags:
   - birds
   - nature
 preview: /images/2022/52211711211_466e556274_c.jpg
+ogImage: /images/2022/52211711211_466e556274_c.jpg
 description: Now that weather is a bit warmer, I´ve been hanging out at my local park lately to watch some birds. Mostly Geese, but we got some other cool critters as well.
 toc: false
 donate: true

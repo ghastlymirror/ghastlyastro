@@ -33,8 +33,7 @@ In typical Lucas Arts fashion, you have a bunch of quirky characters to interact
 
 ### Game Links
 
-[**Humble Bundle**](https://www.humblebundle.com/store/dropsy?partner=ghastlymirror) /  [**Steam**](https://store.steampowered.com/app/274350/Dropsy/) / [**GOG**](https://www.gog.com/game/dropsy) / [**Itch.io**](https://devolverdigital.itch.io/dropsy)
-
+:btn[**Steam**]{href="https://store.steampowered.com/app/274350/Dropsy/"}  :btn[**GOG**]{href="https://www.gog.com/game/dropsy"} :btn[**Itch.io**]{href="https://devolverdigital.itch.io/dropsy"}
 
 
 
@@ -54,9 +53,7 @@ It has a fun 1980s noir setting, jokes, and different difficulty settings. This 
 While you can check it out, I do recommend playing the main game first, since it revisits several characters and locations there.
 
 ## Game Links
-
-[**Humble Bundle**](https://www.humblebundle.com/store/thimbleweed-park?partner=ghastlymirror) / [**Steam**](https://store.steampowered.com/app/569860/Thimbleweed_Park/) / [**GOG**](https://www.gog.com/game/thimbleweed_park)
-
+:btn[**Steam**]{href="https://store.steampowered.com/app/569860/Thimbleweed_Park/"}  :btn[**GOG**]{href="https://www.gog.com/game/thimbleweed_park"} 
 
 ## 3.A Vampyre Story
 
@@ -74,8 +71,7 @@ Besides your typical Mokey Island-like gameplay, the game has beautiful hand-pai
 
 ## Game Links
 
-[**Steam**](https://store.steampowered.com/app/313870/A_Vampyre_Story/) / [**GOG**](https://www.gog.com/game/a_vampyre_story)
-
+:btn[**Steam**]{href="https://store.steampowered.com/app/313870/A_Vampyre_Story/"}  :btn[**GOG**]{href="https://www.gog.com/game/a_vampyre_story"} 
 
 ## 5.Unavowed
 
@@ -89,11 +85,7 @@ It also has a new twist on the genre, character creation, and dialogue choices w
 
 ## Game Links
 
-[**Humble Bundle**](https://www.humblebundle.com/store/unavowed?partner=ghastlymirror) / [**Steam**](https://store.steampowered.com/app/336140/Unavowed/) / [**GOG**](https://www.gog.com/game/unavowed)
-
-
-
-
+:btn[**Steam**]{href="https://store.steampowered.com/app/336140/Unavowed/"}  :btn[**GOG**]{href="https://www.gog.com/game/unavowed"} 
 
 ## 5.Blackwell Legacy
 ![A red haired  woman with glasses standing next to a ghost of a man with a fedora, with the written words The Blackwell Legacy](/images/2022/blackwell%20legacy.png)
@@ -112,15 +104,13 @@ With a jazzy soundtrack, the story takes players on a journey to real New York l
 
 ## Game Links
 
-[**Steam**](https://store.steampowered.com/bundle/6377/The_Blackwell_Bundle/) / [**GOG**](https://www.gog.com/game/blackwell_bundle)
-
-
+:btn[**Steam**]{href="https://store.steampowered.com/bundle/6377/The_Blackwell_Bundle/"}  :btn[**GOG**]{href="https://www.gog.com/game/blackwell_bundle"} 
 
 ## Final Thoughts
 So, there it is, my list of top five adventure games inspired by Lucas Arts. I did enjoy playing these and I hope that I might talk more about each and every entry in more detail in the future.
 
 For the current readers, which Adventure game is your favorite? Feel free to comment below, and as always I am open to suggestions on games to check out.
 
-*Disclaimer: All my Humble Bundle links are affiliated, this means I receive a commission every time someone makes a purchase through them at no extra cost and it will go towards supporting this blog.*
+
 
 
