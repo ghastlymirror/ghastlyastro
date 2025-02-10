@@ -9,11 +9,12 @@ tags:
   - insects
   - reptiles
   - nature
-Image: /images/blog/seckled-wood-butterfly-1.jpg
+ogImage: /images/blog/seckled-wood-butterfly-1.jpg
 toc: true
 donate: true
 comment: true
 preview: /images/blog/seckled-wood-butterfly-1.jpg
+
 ---
 ![A beown and orange butterfly upside down on a branch](/images/blog/seckled-wood-butterfly-1.jpg)
 

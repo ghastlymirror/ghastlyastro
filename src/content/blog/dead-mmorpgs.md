@@ -14,7 +14,7 @@ toc: true
 donate: true
 comment: true
 preview: /images/blog/toontown.jpg
-images: /images/blog/toontown.jpg
+ogImage: /images/blog/toontown.jpg
 ---
 ![A game poster of several cartoon characters saying We´re Back!](/images/blog/toontown.jpg)
 
@@ -48,7 +48,7 @@ But thanks to a group of dedicated fans it was brought back under the name of To
 
 With a very active community and new events, this is a very lively version of ToonTown to checkout.
 
-[**Official Site**](https://www.toontownrewritten.com/)
+:btn[**Official Site**]{href="https://www.toontownrewritten.com/"}  
 
 ## 2. Shin Megami Tensei Re: Imagine
 
@@ -86,7 +86,8 @@ It was extremely popular if not ahead of its time, which is a shame that EA neve
 
 Because of this popularity, fans created FreeSO, not only have brought the original games, but they added some improvements like enhanced 3D graphics, avatar and content tools, and even... drivable cars among other things.
 
-[**Official Site**](https://freeso.org/)
+:btn[**Official Site**]{href="https://freeso.org/"}  
+
 
 ## 4. City of Heroes Homecoming
 
@@ -107,7 +108,7 @@ Which was a shame when it all came to a close in May 2012, it went on to inspire
 
 Now years later, and thanks to a leaked code, it was brought back in the form of City of Heroes: Homecoming. All of the game content including expansions is available for free. I can also say that it does have a very friendly and active player base, offers an RP server for those of you who wanna make your own superhero, as well as Player created events like costume contests and house parties.
 
-[**Official Site**](https://forums.homecomingservers.com/forum/53-getting-started/)
+:btn[**Official Site**]{href="https://forums.homecomingservers.com/forum/53-getting-started/"}  
 
 ## Final Thoughts
 

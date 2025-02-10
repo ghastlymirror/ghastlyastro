@@ -9,6 +9,8 @@ tags:
   - horror
   - scifi
   - blaugust
+  
+ogImage: /images/blog/stubsthezombie.jpg
 preview: /images/blog/stubsthezombie.jpg
 toc: true
 donate: true
@@ -32,8 +34,7 @@ Now back from the dead decades later he seeks revenge. Create an army of undead 
 
 **Game Links**
 
-[**Steam**](https://store.steampowered.com/app/7800/Stubbs_the_Zombie_in_Rebel_Without_a_Pulse/) / [**GOG**](https://www.gog.com/game/Stubbs_the_Zombie_in_Rebel_Without_a_Pulse)
-
+:btn[**Steam**]{href="https://store.steampowered.com/app/7800/Stubbs_the_Zombie_in_Rebel_Without_a_Pulse/"}  :btn[**GOG**]{href="https://www.gog.com/game/Stubbs_the_Zombie_in_Rebel_Without_a_Pulse"}  
 
 ## 2.The Overlord Series
 
@@ -49,7 +50,7 @@ I´d argue Overlord 2 is the best one, and it´s a shame this franchise ended so
 
 **Game Links**
 
-[**Steam**](https://store.steampowered.com/bundle/1229/Overlord_Ultimate_Evil_Collection/) / [**GOG**](https://www.gog.com/en/games?publishers=codemasters)
+:btn[**Steam**]{href="https://store.steampowered.com/bundle/1229/Overlord_Ultimate_Evil_Collection/"}  :btn[**GOG**]{href="https://www.gog.com/en/games?publishers=codemasters"} 
 
 ## 3.Carrion
 
@@ -65,7 +66,7 @@ There is also a story to have here, in which the creature tries to learn more ab
 
 **Game Links**
 
-[**Steam**](https://store.steampowered.com/app/953490/CARRION/) / [**GOG**](https://www.gog.com/game/carrion)
+:btn[**Steam**]{href="https://store.steampowered.com/app/953490/CARRION/"}  :btn[**GOG**]{href="https://www.gog.com/game/carrion"} 
 
 ## 4.Vampyr and Vampire the Masquerade
 
@@ -81,7 +82,7 @@ Don´t let the outdated graphics turn you off, plus thanks to a community that g
 
 **Game Links**
 
-[**Steam**](https://store.steampowered.com/app/2600/Vampire_The_Masquerade__Bloodlines/) / [**GOG**](https://www.gog.com/game/vampire_the_masquerade_bloodlines)
+:btn[**Steam**]{href="https://store.steampowered.com/app/2600/Vampire_The_Masquerade__Bloodlines/"}  :btn[**GOG**]{href="https://www.gog.com/game/vampire_the_masquerade_bloodlines"} 
 
 ![vampyr poster](/images/2022/vampyr.jpg#center)
 
@@ -93,7 +94,7 @@ But killing isn´t mandatory to progress the game, which ending you get depends 
 
 **Game Links**
 
-[**Steam**](https://store.steampowered.com/app/427290/Vampyr/) / [**GOG**](https://www.gog.com/game/vampyr)
+:btn[**Steam**]{href="https://store.steampowered.com/app/427290/Vampyr/"}  :btn[**GOG**]{href="https://www.gog.com/game/vampyr"} 
 
 ## 5.Lucius
 
@@ -105,7 +106,7 @@ But don´t feel too bad about his family, and they hid some dark secrets as well
 
 **Game Links**
 
-[**Steam**](//store.steampowered.com/app/218640/Lucius/) /    [**GOG**](https://www.gog.com/game/lucius)
+:btn[**Steam**]{href="https://store.steampowered.com/app/218640/Lucius/"}  :btn[**GOG**]{href="https://www.gog.com/game/lucius"} 
 
 ## 6.STYX Master of Shadows
 
@@ -119,7 +120,7 @@ The story offers a cool plot twist that I´m not gonna spoil, but if you must kn
 
 **Game Links**
 
-[**Steam**](https://store.steampowered.com/app/242640/Styx_Master_of_Shadows/) / [**GOG**](https://www.gog.com/game/styx_master_of_shadows)
+:btn[**Steam**]{href="https://store.steampowered.com/app/242640/Styx_Master_of_Shadows/"}  :btn[**GOG**]{href="https://www.gog.com/game/styx_master_of_shadows"} 
 
 ## 7.Destroy All Humans!
 
@@ -133,7 +134,7 @@ But sometimes during the mission you need to think carefully, the game has an al
 
 **Game Links**
 
-[**Steam**](https://store.steampowered.com/app/803330/Destroy_All_Humans/) / [**GOG**](https://www.gog.com/game/destroy_all_humans)
+:btn[**Steam**]{href="https://store.steampowered.com/app/803330/Destroy_All_Humans/"}  :btn[**GOG**]{href="https://www.gog.com/game/destroy_all_humans"}
 
 ## 8.Any Multiplayer With a Monster Vs Players Mode
 

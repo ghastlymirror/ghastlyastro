@@ -2,6 +2,7 @@
 title: Cool Bug Video Games to Play - Part 1
 date: 2022-05-16
 description: As a kid, I was always fascinated by insects, and no doubt it was influenced by their presence in pop culture such as cartoons like (bugs life) or video games. 
+ogImage: /images/2022/bugfables.jpg
 category:
   - gaming
   - review
@@ -15,6 +16,8 @@ toc: true
 donate: true
 comment: true
 preview: /images/2022/bugfables.jpg
+
+ogImage: /images/2022/bugfables.jpg
 
 ---
 
@@ -43,7 +46,7 @@ One word of warning, this is a really challenging game but the way this was crea
 
 ### Game Links
 
-[**Steam**](https://store.steampowered.com/app/367520/Hollow_Knight/) / [**GOG**](https://www.gog.com/en/game/hollow_knight)
+:btn[**Steam**]{href="https://store.steampowered.com/app/367520/Hollow_Knight/"}  :btn[**GOG**]{href="https://www.gog.com/en/game/hollow_knight"}  
 
 ## 2.Yoku´s Island Express
 
@@ -61,7 +64,7 @@ Not only is Yoku fun to play but probably the best way to introduce this genre t
 
 ### Game Links
 
-[Steam](https://store.steampowered.com/app/334940/Yokus_Island_Express/) / [**GOG**](https://www.gog.com/en/game/yokus_island_express)
+:btn[**Steam**]{href="https://store.steampowered.com/app/334940/Yokus_Island_Express/"}  :btn[**GOG**]{href="https://www.gog.com/en/game/yokus_island_express"}  
 
 ## 3.Bug Fables
 
@@ -77,7 +80,7 @@ Also, its mechanics and cute 2D paper cutout style actually reminded me of Paper
 
 ### Game Links
 
-[**Steam**](https://store.steampowered.com/app/1082710/Bug_Fables_The_Everlasting_Sapling/) / [**GOG**](https://www.gog.com/game/bug_fables_the_everlasting_sapling)
+:btn[**Steam**]{href="https://store.steampowered.com/app/1082710/Bug_Fables_The_Everlasting_Sapling/"}  :btn[**GOG**]{href="https://www.gog.com/game/bug_fables_the_everlasting_sapling"}  
 
 ## 4.Empires of the Undergrowth
 
@@ -93,7 +96,7 @@ You can even say this is an educational game based on its realistic ant behavior
 
 **Game Links:**
 
-[**Steam**](https://store.steampowered.com/app/463530/Empires_of_the_Undergrowth/) / [**GOG**](https://www.gog.com/game/empires_of_the_undergrowth)
+:btn[**Steam**]{href="https://store.steampowered.com/app/463530/Empires_of_the_Undergrowth/"}  :btn[**GOG**]{href="https://www.gog.com/game/empires_of_the_undergrowth"}  
 
 ## 5.Metamorphosis
 
@@ -115,7 +118,7 @@ There are a lot of interesting and surreal elements that make you want to play i
 
 ### Game Links
 
-[**Steam**](https://store.steampowered.com/app/1025410/Metamorphosis/) / [**GOG**](https://www.gog.com/game/metamorphosis)
+:btn[**Steam**]{href="https://store.steampowered.com/app/1025410/Metamorphosis/"}  :btn[**GOG**]{href="https://www.gog.com/game/metamorphosis"}  
 
 ## 6.Bugsnax
 
@@ -133,7 +136,7 @@ A lot of this game takes inspiration from games like Pokemon Snap and Viva La Pi
 
 ### Game Links
 
-[**Steam**](https://store.steampowered.com/app/674140/Bugsnax/) / [**Epic Games**](https://www.epicgames.com/store/en-US/p/bugsnax)
+:btn[**Steam**]{href="https://store.steampowered.com/app/674140/Bugsnax/"}  :btn[**GOG**]{href="https://www.epicgames.com/store/en-US/p/bugsnax"}  
 
 ## Final Thoughts
 

@@ -10,6 +10,7 @@ tags:
   - retro
   - scifi
 preview: /images/blog/calahnc2b4s-saloon-cover1.jpg
+ogImage: /images/blog/calahnc2b4s-saloon-cover1.jpg
 ---
 ![game cover that says for callahan crosstime saloon](/images/blog/calahnc2b4s-saloon-cover1.jpg)
 
@@ -78,6 +79,4 @@ Despite this is being a very old game, the weird adventures, great humour and to
 
 ## Game Links
 
-[**The Collection Chamber**](https://collectionchamber.blogspot.com/2015/04/callahans-crosstime-saloon.html)
-
-
+:btn[**The Collection Chamber**]{href="https://collectionchamber.blogspot.com/2015/04/callahans-crosstime-saloon.html"}  

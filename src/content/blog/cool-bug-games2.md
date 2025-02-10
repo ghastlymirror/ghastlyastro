@@ -14,6 +14,8 @@ toc: true
 donate: true
 comment: true
 preview: /images/2022/spidermoon.jpg
+
+ogImage: /images/2022/spidermoon.jpg
 ---
 
 A continuation of my previous list, Here we go more bug themed games, for people to check out.
@@ -31,7 +33,8 @@ Another interesting thing there is an entire mystery about the inhabitants of sa
 
 ### Game Links
 
-[**Steam**](https://store.steampowered.com/app/278420/Spider_Rite_of_the_Shrouded_Moon/) / [**Apple**](https://apps.apple.com/us/app/spider-rite-shrouded-moon/id767546279)
+:btn[**Steam**]{href="https://store.steampowered.com/app/278420/Spider_Rite_of_the_Shrouded_Moon/"}  :btn[**Apple**]{href="https://apps.apple.com/us/app/spider-rite-shrouded-moon/id767546279"}  
+
 
 ## 2.Beetle Uprising
 
@@ -51,7 +54,7 @@ I would argue this is more of a spiritual sequel to SimAnt but with beetles inst
 
 ### Game Links
 
-[**Steam**](https://store.steampowered.com/app/662680/Beetle_Uprising/) / [**Itch.io**](https://slugdisco.itch.io/beetle-uprising)
+:btn[**Steam**]{href="https://store.steampowered.com/app/662680/Beetle_Uprising/"}  :btn[**Itch.io**]{href="https://slugdisco.itch.io/beetle-uprising"}  
 
 ## 3.Birdgut
 
@@ -69,7 +72,7 @@ The game also comes with multiple endings giving it some replay value. Plus, unl
 
 ### Game Links
 
-[**Steam**](https://store.steampowered.com/app/1072390/BirdGut/?l=portuguese)
+:btn[**Steam**]{href="https://store.steampowered.com/app/1072390/BirdGut/?l=portuguese"}  
 
 ## 4.Bee Simulator
 
@@ -95,8 +98,7 @@ This is an ideal game if you´re looking for something relaxing.
 
 ### Game Links
 
-[**Steam**](https://store.steampowered.com/app/914750/Bee_Simulator/)
-
+:btn[**Steam**]{href="https://store.steampowered.com/app/914750/Bee_Simulator/"}  
 
 ## 5.Frightened Beetles
 
@@ -116,5 +118,4 @@ Mind you this is the developer's first game project, but it is fun to play if yo
 
 ### Game Links
 
-[**Steam**](https://store.steampowered.com/app/823830/Frightened_Beetles/)
-
+:btn[**Steam**]{href="https://store.steampowered.com/app/823830/Frightened_Beetles/"}  

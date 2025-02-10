@@ -14,6 +14,7 @@ donate: true
 comment: true
 preview: /images/blog/tamagotchi-pc.jpg
 slug: eternichi-tamagotchi-lives-pc
+ogImage: /images/blog/tamagotchi-pc.jpg
 ---
 ![Eternichi Game Cover](/images/blog/tamagotchi-pc.jpg#center)
 
@@ -105,9 +106,6 @@ I give this game a high rating. This is clearly a labor of love on the part of t
 
 And if you like this, the creator currently has another virtual pet project in store called [**Hearithen**](https://naipals.itch.io/hearithen) , feel free to check that one out.
 
-★★★★★
-
 ## **Game Links**
 
-[**Tumblr**](https://sa311.tumblr.com/post/163219155122/index) / [**Discord**](https://discord.gg/dabrHdK)
-
+:btn[**Tumblr**]{href="https://sa311.tumblr.com/post/163219155122/index"}  :btn[**Discord**]{href="https://discord.gg/dabrHdK"}  
