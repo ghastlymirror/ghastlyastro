@@ -479,11 +479,11 @@ export const comment = {
  */
 
 export const analytics: AnalyticsConfig = {
-  enable: false,
+  enable: true,
   umamiConfig: {
-    enable: false,
-    id: "",
-    url: ""
+    enable: true,
+    id: "081341e0-724a-4627-8ed2-7944311d27b3",
+    url: "https://cloud.umami.is/script.js"
   },
   gaConfig: {
     enable: false,
