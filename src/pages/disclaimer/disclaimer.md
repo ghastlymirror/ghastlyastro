@@ -25,6 +25,6 @@ Violation of Rules:
 - Threats or Harrassment of Any Sort
 
 ## Privacy and Data
-This site does not collect collect any personally identifiable information or cookies and thus its GDPR compliant
+This site does not collect collect any personally identifiable information or cookies and thus its GDPR compliant.
 
 
