@@ -6,6 +6,7 @@ category:
 tags:
   - cats
 preview: /images/2022/52192598417_a9f1e835ee_c.jpg
+ogImage: /images/2022/52192598417_a9f1e835ee_c.jpg
 slug: street-cat-photography
 description: I love cats, so sometimes I go outside and take photos of them. There´s all kinds of cats of several shapes and sizes from Black Cats to Siamese, to stripped.
 ---

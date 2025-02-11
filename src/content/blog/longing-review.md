@@ -1,5 +1,5 @@
 ---
-title: The Longing Review, A Game About Being Alone in a Cave
+title: The Longing Review - A Game About Being Alone in a Cave
 image: /images/blog/the-longing-game-cover.jpg
 description: I´ve played this game last year, back at the height of the Pandemic Lockdown. So here´s one about a creature in a cave made by indie game Studio Seufz.
 date: 2022-03-28
@@ -13,6 +13,7 @@ toc: true
 donate: true
 comment: true
 preview: /images/blog/the-longing-game-cover.jpg
+ogImage: /images/blog/the-longing-game-cover.jpg
 ---
 ![The Longing Game Cover](/images/blog/the-longing-game-cover.jpg)
 
@@ -130,7 +131,4 @@ The Longing might not be for everyone due to its slow pace, but for the more cas
 
 ## Game Links
 
-[**Humble Bundle**](https://www.humblebundle.com/store/the-longing?partner=ghastlymirror) / [**GOG**](https://www.gog.com/game/the_longing) / [**Steam**](https://store.steampowered.com/app/893850/THE_LONGING/)
-
-*Disclaimer: The Humble Bundle Link in this post is affiliated, this means I receive a commission every time someone makes a purchase through it at no extra cost and it will go towards supporting this blog.*
-
+:btn[**Steam**]{href="https://store.steampowered.com/app/893850/THE_LONGING/"}  :btn[**GOG**]{href="https://www.gog.com/game/the_longing"}  

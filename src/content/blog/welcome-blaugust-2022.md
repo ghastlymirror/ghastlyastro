@@ -16,6 +16,7 @@ keywords:
   - blogging
   - blog
 description: I´m proud to announce that this blog has joined this years Blaugust event! An event dedicated to promote and even inspire the traditional blogging sphere.
+ogImage: /images/blog/blaugust2022.webp
 ---
 ![Blaugust 2022](/images/blog/blaugust2022.webp)
 

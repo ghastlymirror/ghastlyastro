@@ -1,5 +1,5 @@
 ---
-title: Eternichi, A Tamagotchi That Lives on Your PC!
+title: Eternichi - A Tamagotchi That Lives on Your PC!
 description: Remember The Tamagotchi? You know, those keychain pets that you could care for in the 90s? Now you can raise your very own on your PC in this little fangame!
 date: 2022-03-02
 category:

@@ -38,7 +38,8 @@ This one is a very creative and fun game that I experienced last year. Made by t
 The game is a puzzle platform with a fun possession mechanic. You can control the characters' limbs and create all kinds of shenanigans. The thing I enjoyed was the cardboard style of the environment. It feels like your playing through a popup book, making it stand out from other games. Also, it´s got a lot of comedic dialogue.
 
 ### Game Links
-[**Steam**](https://store.steampowered.com/app/626660/Flipping_Death/)
+
+:btn[**Steam**]{href="https://store.steampowered.com/app/626660/Flipping_Death/"}  
 
 ## 2. Death and Taxes
 
@@ -50,7 +51,7 @@ But unlike Papers, ironically lighthearted, in dialogue and some game mechanics.
 
 ### Game Links
 
-[**Steam**](https://store.steampowered.com/app/1166290/Death_and_Taxes/) / [**GOG**](https://www.gog.com/en/game/death_and_taxes) / [**Itch.io**](https://placeholdergameworks.itch.io/death-and-taxes)
+:btn[**Steam**]{href="https://store.steampowered.com/app/1166290/Death_and_Taxes/"}  :btn[**GOG**]{href="https://www.gog.com/en/game/death_and_taxes"}  :btn[**Itch.io**]{href="https://placeholdergameworks.itch.io/death-and-taxes"}  
 
 ## 3. Among US
 
@@ -68,7 +69,7 @@ But on the fun side, this game also has cool hats and costumes to dress up your 
 
 ### Game Links
 
-[**Google Play**](https://play.google.com/store/apps/details?id=com.innersloth.spacemafia&pcampaignid=web_share) / [**Steam**](https://store.steampowered.com/app/945360/Among_Us/) / [**Apple**](https://apps.apple.com/us/app/among-us/id1351168404) / [**Itch.io**](https://innersloth.itch.io/among-us)
+:btn[**Google Play**]{href="https://play.google.com/store/apps/details?id=com.innersloth.spacemafia&pcampaignid=web_share"}  :btn[**Steam**]{href="https://store.steampowered.com/app/945360/Among_Us/"}  :btn[**Apple**]{href="https://apps.apple.com/us/app/among-us/id1351168404"}  :btn[**Itch.io**]{href="https://innersloth.itch.io/among-us"}  
 
 ## 4. Night in The Woods
 
@@ -82,7 +83,7 @@ Besides exploring the games gives tons of things to do, you get to play a game w
 
 ### Game Links
 
-[**Steam**](https://store.steampowered.com/app/481510/Night_in_the_Woods/) / [**GOG**](https://www.gog.com/en/game/night_in_the_woods) / [**Itch.io**](https://finji.itch.io/night-in-the-woods)
+:btn[**Steam**]{href="https://store.steampowered.com/app/481510/Night_in_the_Woods/"}  :btn[**GOG**]{href="https://www.gog.com/en/game/night_in_the_woods"}   :btn[**Itch.io**]{href="https://finji.itch.io/night-in-the-woods"}  
 
 ## 5. They Bleed Pixels
 
@@ -95,7 +96,7 @@ The game has plenty of levels to play through, and difficulty levels according t
 
 ### Game Links
 
-[**Steam**](https://store.steampowered.com/app/211260/They_Bleed_Pixels/) / [**Itch.io**](https://spookysquid.itch.io/they-bleed-pixels)
+:btn[**Steam**]{href="https://store.steampowered.com/app/211260/They_Bleed_Pixels/"}  :btn[**Itch.io**]{href="https://spookysquid.itch.io/they-bleed-pixels"} 
 
 ## 6. Monster Prom (and Camp)
 
@@ -114,9 +115,9 @@ Due to its popularity, they have just published the sequel called Monster Prom 2
 
 ### Game Links
 
-Monster Prom: [**Steam**](https://store.steampowered.com/app/743450/Monster_Prom/) / [**GOG**](https://www.gog.com/en/game/monster_prom)
+Monster Prom: :btn[**Steam**]{href="https://store.steampowered.com/app/743450/Monster_Prom/"}  :btn[**GOG**]{href="https://www.gog.com/en/game/monster_prom"} 
 
-Monster Camp: [**Steam**](https://store.steampowered.com/app/1140270/Monster_Prom_2_Monster_Camp/) / [**GOG**](https://www.gog.com/en/game/monster_prom_2_monster_camp)
+Monster Camp: :btn[**Steam**]{href="https://store.steampowered.com/app/1140270/Monster_Prom_2_Monster_Camp/"}  :btn[**GOG**]{href="https://www.gog.com/en/game/monster_prom_2_monster_camp"} 
 
 ## 7. Wailling Heights
 
@@ -129,7 +130,7 @@ Like any good adventure game you will talk to different characters, explore the 
 
 ### Game Links
 
-[**Steam**](https://store.steampowered.com/app/443650/Wailing_Heights/) / [**Itch.io**](https://outsidergames.itch.io/wailing-heights)
+:btn[**Steam**]{href="https://store.steampowered.com/app/443650/Wailing_Heights/"}  :btn[**Itch.io**]{href="https://outsidergames.itch.io/wailing-heights"} 
 
 ## 8. Pumpkin Jack
 
@@ -140,7 +141,7 @@ This game kinda reminds me of MediEvil, due to the style and hack and slash mech
 
 ### Game Links
 
-[**Steam**](https://store.steampowered.com/app/1186640/Pumpkin_Jack/) / [**GOG**](https://www.gog.com/en/game/pumpkin_jack)
+:btn[**Steam**]{href="https://store.steampowered.com/app/1186640/Pumpkin_Jack/"}  :btn[**GOG**]{href="https://www.gog.com/en/game/pumpkin_jack"} 
 
 ## 9. Afterparty
 
@@ -152,7 +153,7 @@ It´s the perfect spooky party without even having to leave the house.
 
 ## Game Links
 
-[**Steam**](https://store.steampowered.com/app/762220/Afterparty/) / [**GOG**](https://www.gog.com/en/game/afterparty)
+:btn[**Steam**]{href="https://store.steampowered.com/app/762220/Afterparty/"}  :btn[**GOG**]{href="https://www.gog.com/en/game/afterparty"} 
 
 ## 10. Graveyard Keeper
 
@@ -164,7 +165,7 @@ It also has decent DLC. It´s first one, Stranger Sins, has a new storyline and 
 
 ### Game Links
 
-[**Steam**](https://store.steampowered.com/app/1430990/Graveyard_Keeper__Game_Of_Crone/) / [**GOG**](https://www.gog.com/en/game/graveyard_keeper)
+:btn[**Steam**]{href="https://store.steampowered.com/app/1430990/Graveyard_Keeper__Game_Of_Crone/"}  :btn[**GOG**]{href="https://www.gog.com/en/game/graveyard_keeper"} 
 
 ## Honorable Mentions
 In order to avoid this list becoming too long, here a few short entries:

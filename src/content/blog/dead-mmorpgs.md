@@ -1,5 +1,5 @@
 ---
-title: Game Graveyard, 4 Dead MMORPGs Brought Back by Fans
+title: Game Graveyard - 4 Dead MMORPGs Brought Back by Fans
 date: 2022-04-13
 description: No media is more condemned to becoming lost media than video games, but thanks to efforts from dedicated fans, you can continue to visit these online classics. 
 category:

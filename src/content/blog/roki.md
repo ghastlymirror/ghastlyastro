@@ -1,5 +1,5 @@
 ---
-title: Röki Game Review, An Adventure Based on Scandinavian Folkore
+title: Röki Game Review - An Adventure Based on Scandinavian Folkore
 description: Last Week I´ve been playing this interesting game called Roki. It called my interest for being based in Scandinavian folkore like trolls or other monster types.
 date: 2022-03-20
 category:
@@ -10,6 +10,7 @@ tags:
   - indie
   - puzzle
 preview: /images/blog/roki-1.jpg
+ogImage: /images/blog/roki-1.jpg
 ---
 ![Roki Poster](/images/blog/roki-1.jpg)
 
@@ -72,6 +73,4 @@ If this type of game is up your alley feel free to check it out.
 
 ## Game Links
 
-[**Humble Bundle**](https://www.humblebundle.com/store/roki?partner=ghastlymirror) / [**Steam**](https://store.steampowered.com/app/1067540/Rki/) / [**GOG**](https://www.gog.com/game/roki)
-
-*Disclaimer: The Humble Bundle Link in this post is affiliated, this means I receive a commission every time someone makes a purchase through it at no extra cost and it will go towards supporting this blog.*
+:btn[**Steam**]{href="https://store.steampowered.com/app/1067540/Rki/"}  :btn[**GOG**]{href="https://www.gog.com/game/roki"}  

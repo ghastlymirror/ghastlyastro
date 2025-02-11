@@ -9,7 +9,7 @@ tags:
   - nature
   - spiders
 preview: /images/2022/51982054371_527504f26a_b_d.jpg
-image: /images/2022/51982054371_527504f26a_b_d.jpg
+ogImage: /images/2022/51982054371_527504f26a_b_d.jpg
 ---
 
 It´s been a while since I shared some great photos. This time around without having to leave the house! I saw this little guy on one of my flowers and took my macro lenses out.

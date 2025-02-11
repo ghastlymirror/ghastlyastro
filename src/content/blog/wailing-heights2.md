@@ -12,6 +12,7 @@ tags:
 toc: true
 donate: true
 comment: true
+ogImage: /images/blog/wailing-heights-poster.jpg
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kY3Pgu8Uux8?si=vTS-yDWEAYinIWq6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -24,8 +25,4 @@ I also found one the ex-members of the band! She looks kinda green around the gi
 
 So now I gotta figure out how to reach them, which is easier said than done.
 
-### [Previous Video](https://www.ghastlymirror.xyz/blog/wailling-heights)
-
-### [Next Video](https://www.ghastlymirror.xyz/blog/wailing-heights3)
-
-
+:btn[**Previous Video**]{href="https://www.ghastlymirror.xyz/blog/wailling-heights"}  :btn[**Next Video**]{href="https://www.ghastlymirror.xyz/blog/wailing-heights3"}

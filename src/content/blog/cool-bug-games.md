@@ -16,9 +16,6 @@ toc: true
 donate: true
 comment: true
 preview: /images/2022/bugfables.jpg
-
-ogImage: /images/2022/bugfables.jpg
-
 ---
 
 As a kid, I was always fascinated by insects, and no doubt it was influenced by their presence in pop culture such as cartoons like (bugs life) or video games.

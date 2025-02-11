@@ -1,5 +1,5 @@
 ---
-title: Cool Bug Video Games to Play Part 2
+title: Cool Bug Video Games to Play - Part 2
 date: 2022-06-01
 description: A continuation of my previous list, Here we go more bug themed games, for people to check out. From Puzzles to Insect Simulators, there´s some variety.
 category:

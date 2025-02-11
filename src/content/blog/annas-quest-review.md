@@ -1,5 +1,5 @@
 ---
-title: Anna´s Quest Review, A cute fairy tale game
+title: Anna´s Quest Review - A cute fairy tale game
 date: 2022-05-01
 description: I´ve come here with yet another puzzle adventure game, this time created by studio  Daedalic who brought us the Deponia series and with a fairytale setting.
 category:

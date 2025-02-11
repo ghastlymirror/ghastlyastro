@@ -1,5 +1,5 @@
 ---
-title: Merrily Perilly, A Game Where Everything Tries to Kill You.
+title: Merrily Perilly - A Game Where Everything Tries to Kill You.
 date: 2022-07-11
 category:
   - gaming
@@ -35,5 +35,4 @@ I give it a 4 out of 5 for creativity
 
 ## Game Links
 
-[**Itch.io**](https://squiddershins.itch.io/merrily-perilly) / [**Steam**](https://store.steampowered.com/app/818800/Merrily_Perilly/)
-
+:btn[**Steam**]{href="https://store.steampowered.com/app/818800/Merrily_Perilly/"}  :btn[**Itch.io**]{href="https://squiddershins.itch.io/merrily-perilly"}  

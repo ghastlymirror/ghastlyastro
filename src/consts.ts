@@ -206,26 +206,6 @@ export const donate = {
 }
 
 
-/**
- * Analytics Feature Configuration
- *
- * This file centralizes the analytics configuration for the application.
- * It defines and exports the default settings for Umami and Google Analytics.
- */
-
-export const analytics: AnalyticsConfig = {
-  enable: false,
-  umamiConfig: {
-    enable: false,
-    id: "",
-    url: ""
-  },
-  gaConfig: {
-    enable: false,
-    id: ""
-  },
-  busuanzi: false,
-};
 
 /**
  * Friendship Links Page
@@ -490,3 +470,24 @@ export const comment = {
     }
   
   }
+
+  /**
+ * Analytics Feature Configuration
+ *
+ * This file centralizes the analytics configuration for the application.
+ * It defines and exports the default settings for Umami and Google Analytics.
+ */
+
+export const analytics: AnalyticsConfig = {
+  enable: false,
+  umamiConfig: {
+    enable: false,
+    id: "",
+    url: ""
+  },
+  gaConfig: {
+    enable: false,
+    id: ""
+  },
+  busuanzi: false,
+};

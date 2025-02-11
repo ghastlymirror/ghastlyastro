@@ -15,6 +15,7 @@ comment: true
 donate: true
 toc: true
 preview: /images/2022/cozygroove.jpg
+ogImage: /images/2022/cozygroove.jpg
 description: Its summer, the perfect time to relax, hang out with friends and travel around. Also the perfect time for games, here´s a couple of virtual summer destinations.
 ---
 
@@ -44,7 +45,7 @@ If you only have a couple of minutes in a day to play, this life simulator is th
 
 **Game Links**
 
-[**Steam**](https://store.steampowered.com/app/1458100/Cozy_Grove/) / [**Official Site**](https://cozygrovegame.com/)
+:btn[**Steam**]{href="https://store.steampowered.com/app/1458100/Cozy_Grove/"}  :btn[**Official Site**]{href="https://cozygrovegame.com/"}  
 
 ## 2.Monster Camp
 
@@ -63,7 +64,7 @@ Not to mention its a game best played with friends, that´s right, this is a mul
 
 **Game Links**
 
-[**Steam**](https://store.steampowered.com/app/1140270/Monster_Prom_2_Monster_Camp/) / [**GOG**](https://www.gog.com/game/monster_prom_2_monster_camp)
+:btn[**Steam**]{href="https://store.steampowered.com/app/1140270/Monster_Prom_2_Monster_Camp/"}  :btn[**GOG**]{href="https://www.gog.com/game/monster_prom_2_monster_camp"} 
 
 ## 3.Mutazione
 
@@ -81,7 +82,7 @@ I Might write about my playthrough of this game in the future.
 
 **Game Links**
 
-[**Steam**](https://store.steampowered.com/app/1080750/Mutazione/) / [**GOG**](https://www.gog.com/game/mutazione)
+:btn[**Steam**]{href="https://store.steampowered.com/app/1080750/Mutazione/"}  :btn[**GOG**]{href="https://www.gog.com/game/mutazione"} 
 
 ## 4.Disneyland Adventures
 
@@ -92,8 +93,6 @@ Wait you can´t go? That is okay because there is a virtual version you can go t
 This game allows you to experience the magic of Disney and more.  
 Players get to go on a variety of attractions based on the actual parks, not to mention there are a ton of quests, and even interact with their favorite characters.
 
-
-
 ![a kid interacting with pluto in disneyland](/images/2022/disneypluto.jpg "Hey there Pluto")
 
 There´s also item collecting and cool outfits.  
@@ -101,7 +100,7 @@ You know maybe other theme parks should come up with a videogame version of thei
 
 **Game Links**
 
-[**Steam**](https://store.steampowered.com/app/630610/Disneyland_Adventures/) / [**XBOX**](https://www.xbox.com/en-us/games/store/Disneyland-Adventures/9N6Z8DQXSQWH)
+:btn[**Steam**]{href="https://store.steampowered.com/app/630610/Disneyland_Adventures/"}  :btn[**XBOX**]{href="https://www.xbox.com/en-us/games/store/Disneyland-Adventures/9N6Z8DQXSQWH"} 
 
 ## 5.Alba: A Wildlife Adventure
 
@@ -118,8 +117,7 @@ Very chill and play at your own pace type of game.
 
 **Game Links**
 
-[**Steam**](https://store.steampowered.com/app/1337010/Alba_A_Wildlife_Adventure/) / [**GOG**](https://www.gog.com/game/alba_a_wildlife_adventure)
-
+:btn[**Steam**]{href="https://store.steampowered.com/app/1337010/Alba_A_Wildlife_Adventure/"}  :btn[**GOG**]{href="https://www.gog.com/game/alba_a_wildlife_adventure"}
 
 ## 6.Summer in Mara
 
@@ -137,8 +135,7 @@ I´m actually about to play this one.
 
 **Game Links**
 
-[**Steam**](https://store.steampowered.com/app/962580/Summer_in_Mara/) / [**Itch.io**](https://chibig.itch.io/summer-in-mara) / [**GOG**](https://www.gog.com/game/summer_in_mara)
-
+:btn[**Steam**]{href="https://store.steampowered.com/app/962580/Summer_in_Mara/"}  :btn[**GOG**]{href="https://www.gog.com/game/summer_in_mara"}  :btn[**Itch.io**]{href="https://chibig.itch.io/summer-in-mara"}
 
 If you know of any similar games, please feel free to comment below.
 

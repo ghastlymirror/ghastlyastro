@@ -1,5 +1,5 @@
 ---
-title: Nature Photography, Forest Hike
+title: Nature Photography - Forest Hike
 date: 2022-03-08
 description: On a sunny day in June I decided to take a hike on this nature reserve situated in the Portuguese town of Vila do Conde. Armed with my Camera I got some photos.
 category:
