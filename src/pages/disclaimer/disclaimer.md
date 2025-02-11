@@ -13,7 +13,7 @@ All images from the photography and art category belong to me unless specified o
 
 ## Site Revenue
 I run this blog for free mostly, but readers are free to donate through Kofi.
-Some posts have affiliated links, which will always be disclosed if they are present.
+Some posts may have affiliated links, which will always be disclosed if they are present.
 
 ## Comment Policy
 This site has a comment section to allow visitors to share feedback and welcomes a variety of views, however I reserve the right to remove any innapropriate comments.
@@ -23,5 +23,8 @@ Violation of Rules:
 - Hate Speech 
 - Spreading Misinformation
 - Threats or Harrassment of Any Sort
+
+## Privacy and Data
+This site does not collect collect any personally identifiable information or cookies and thus its GDPR compliant
 
 
