@@ -90,7 +90,7 @@ The second type is the trolley games, this is how I´ve earned most of the beans
 
 These games can be played alone or with other players. Some of the modes include a Pacman clone, a memory game, swimming through rings, and protect barrels from Cogs. However, I did find them a bit tedious after a while.
 
-The third type is golfing and racing, Golf is basically a mini-golf game where you can earn trophies (which gives a fancy outfit) and health meter boost, while racing is basically Mario Kart, and rewards tickets which unlocks new Karts or fashion accessories.
+The third type is golfing and racing, first one is just a regular mini-golf game where you can earn trophies (which gives a fancy outfit) and health meter boost, while racing is basically Mario Kart, and rewards tickets which unlocks new Karts or fashion accessories.
 
 
 ![a mini game mazes that looks like pacman](/images/2022/toonmazegame.jpg#center)
