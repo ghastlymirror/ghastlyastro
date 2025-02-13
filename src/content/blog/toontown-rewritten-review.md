@@ -98,7 +98,7 @@ The third type is golfing and racing, first one is just a regular mini-golf game
 ![a toon character playing mini golf](/images/2022/toonminigolfgame.jpg#center)
 
 
-I also got to join a party at one point (and by "party" I mean party with balloons, and stuff) which also another way to play minigames to earn beans, Also players can create one themselves. There´s also a jukebox and other fun props to interact with.
+I also got to join a party at one point (and by "party" I mean the traditional version with balloons, and stuff) which is also another way to play minigames to earn beans, And players can create one themselves. There´s even a jukebox and other fun props to interact with.
 
 Once I got enough beans, I headed into the Goofy Gag, the shop for all my gag needs which are necessary in order to fight the Cogs.
 
