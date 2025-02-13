@@ -133,7 +133,7 @@ Another neat feature is that other players can join the fight at any time, in fa
 ![evil looking grey buidling with eyes](/images/2022/tooncogtower.jpg#center "Even the Buildings are Evil")
 
 
-And if I get other toons to my group I can then to join them at a Cog Building. These huge metal buildings function as the game's dungeon, where you battle wave after wave until reaching the boss. Once you´ve won. The building will be replaced with a regular Toontown building with photos of the players that liberated the building hanging on the walls for bragging rights.
+And if I get other toons to my group I can then to join them at a Cog Building. These huge metal buildings function as the game's dungeon, where you battle wave after wave until reaching the boss. Once you´ve won, the building will be replaced with a regular Toontown building with photos of the players that liberated the building hanging on the walls for bragging rights.
 
 
 ![three cartoon character fighting three evil robots in a metal room](/images/2022/toondungeon.jpg#center)
@@ -161,7 +161,7 @@ In the backyard, you can also do some fishing, as well as gardening, which requi
 ![ a cartoon blue cat showing several flowers](/images/2022/toongarden.jpg#center)
 
 
-This is also the place where I get to visit my very own pet called a doodle! This however the only place players get to see them besides combat. They can be fed here, be played with and even teach them tricks. Doodles can also be called to aid in battle with their tricks so training is important.
+This is also the place where I get to visit my very own pet called a doodle! This however is the only place players get to see them besides combat. They can be fed here, be played with and even teach them tricks. Doodles can also be called to aid in battle with their tricks so training is important.
 
 They often come in different colors, body parts, and personality traits, and can be bought at the pet store. The options for available pets often change every day, and that´s depending on if a specific doodle was bought.
 
