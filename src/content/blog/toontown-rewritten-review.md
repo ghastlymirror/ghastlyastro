@@ -119,7 +119,7 @@ Once I left the playground, I´ve found that the streets are filled with Gogs! B
 ![game screenshot showcasing options of combat abilities](/images/2022/toonbattlescreen.jpg#center)
 
 
-But this requires some strategy, as certain attacks (called gags) are only efficient on certain enemy types. And instead of gaining experience level, you gain points according to what gag you use. The more they get used the more upgrades they get.
+But this requires some strategy, as certain attacks (called gags) are only efficient on certain enemy types. And instead of gaining experience points, you gain exp according to what gag you use. The more they get used the more upgrades they get.
 
 Now I could just mindlessly keep battling to progress, but there are better ways to do it, that is when Cog invasions come in, it involves fighting wave after wave of enemies or by completing toontasks rewarding with even more laff points, and that should give enough experience, although can only one task can be done at a time, which can be a bit annoying. Also, I suggest having the [**wiki open**](https://toontown.wiki.gg/wiki/Cogs) to figure out where certain Cog types are located to complete it.
 
