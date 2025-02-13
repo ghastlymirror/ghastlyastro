@@ -100,7 +100,7 @@ With a sprawling Urban metropolis to fight bad guys in, and a unique character c
 I actually loved their character creation, there are so many costume parts to choose from and superpowers, so no two characters are alike. I have seen my fair share of creative players, sometimes I just like to stop and take a screenshot of all the interesting characters I´ve come across.
 
 
-![Several SuperHero Characters psoing in front of a building](/images/2022/herocharacters.jpg)
+![Several SuperHero Characters psoing in front of a building](/images/2022/herocharacters.jpg#center)
 
 There´s also a couple of cool things, like for example besides fighting powers like super strength and mind control, you use flight or superspeed to move around the city, join hero leagues and have your own lair.
 
