@@ -29,7 +29,7 @@ I´ve already mentioned this game in a [**previous post,**](/blog/dead-mmorpgs) 
 ![toontown homepage](/images/2022/toontownwebsite.jpg#medium "The Homepage as it was when it was first launched
 ")
 
-So a little bit of history, it was officially launched on June 2, 2003 Toontown and could be described as a subscription-based MMORPG created by Disney Interactive, which gave the players a chance to create their own cartoon characters and interact with beloved Disney characters such as Mickey and Donald.
+So a little bit of history, ToonTown was officially launched on June 2, 2003 and could be described as a subscription-based MMORPG created by Disney Interactive, which gave the players a chance to create their own cartoon characters and interact with beloved Disney characters such as Mickey and Donald.
 
 
 ![Mickey Mouse in Toontown Asking a player to play Tag](/images/2022/mickeymousetoontown.jpg#center)
