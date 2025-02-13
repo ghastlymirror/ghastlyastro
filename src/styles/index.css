@@ -283,5 +283,12 @@ menu {
 img[src$='#center'] {
   display: block;
   margin: auto;
-  width:70p%;
+  width:90%;
+}
+
+
+img[src$='#medium'] {
+  display: block;
+  margin: auto;
+  width:60%;
 }
