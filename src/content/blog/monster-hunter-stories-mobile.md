@@ -8,6 +8,7 @@ tags:
   - adventure
   - mobile
   - rpg
+  - blaugust
 ogImage: /images/blog/monsterhunterstories.jpg
 preview: /images/blog/monsterhunterstories.jpg
 toc: true
