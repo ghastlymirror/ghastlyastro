@@ -18,7 +18,7 @@ preview: /images/2022/spidermoon.jpg
 ogImage: /images/2022/spidermoon.jpg
 ---
 
-A continuation of my previous list, Here we go more bug themed games, for people to check out.
+A continuation of my [**previous post,**](/blog/cool-bug-games), Here we go more bug themed games, for people to check out.
 
 ## 1.Spider: Rite of the Shrouded Moon
 
