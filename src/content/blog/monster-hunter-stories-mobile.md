@@ -14,7 +14,7 @@ preview: /images/blog/monsterhunterstories.jpg
 toc: true
 donate: true
 comment: true
-description: Here am I reviewinf a spinoff of the Monster Hunter series, a mobile port at that. Unlike the main series, here you can tame and befriend monsters instead.
+description: Here am I reviewing a spinoff of the Monster Hunter series, a mobile port at that. Unlike the main series, here you can tame and befriend monsters instead.
 ---
 ![MOnster Hunter Stories Poster](/images/blog/monsterhunterstories.jpg)
 
