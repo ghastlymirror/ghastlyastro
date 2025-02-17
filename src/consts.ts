@@ -200,7 +200,7 @@ export const infoLinks = [
  */
 export const donate = {
   enable: true,
-  tip: "Thanks for reading, feel free to send me a tip! ☕ ",
+  tip: "Thanks for reading. If you like what I do, feel free to send me a tip below! ☕",
 
   kofiUrl: "https://ko-fi.com/ghastlymirror",
 }
