@@ -15,7 +15,7 @@ preview: /images/blog/the-longing-game-cover.jpg
 comment: true
 donate: true
 toc: true
-draft: true
+draft: false
 ---
 ![The Longing Game Cover](/images/blog/the-longing-game-cover.jpg)
 
@@ -52,7 +52,7 @@ And last but not least, if you need to reverse time, you can create a blue fire 
 ## 2.Get A Map
 
 
-![A bunch of carvings in the wall looking like a map of the entire cave](/images/2022/thelongingmapcarvings.jpg)
+![A bunch of carvings in the wall looking like a map of the entire cave](/images/2022/thelongingmapcarvings.jpg#center)
 
 
 The cave is huge and maze-like, making it easy for you to get lost. And unlike other games it does not come with an easy-to-access map with the click of a button.
@@ -60,7 +60,7 @@ The cave is huge and maze-like, making it easy for you to get lost. And unlike o
 The best way to get around is to draw your own map on paper as you explore, so you have a clear idea of where to go.
 
 
-![The entire cave structure](/images/2022/thecavemap.jpg)
+![The entire cave structure](/images/2022/thecavemap.jpg#center)
   
 
 But if you´re lazy like me, you can find a map in this certain area. It´s on the upper side of the caves, hard to miss it. Get the Shade to investigate it and wait. It should slowly zoom out showing the entire area. I screenshotted it so I could always have it with me without having to go back there again, saving me some time.
@@ -78,7 +78,7 @@ Feel free to walk for a long as you like, just remember, it will take you the sa
 ## 4.Mattocks, gotta catch them all.
 
 
-![A Goblin creature finding a mattock](/images/2022/thelonggingfindmattoc.jpg "Hy-oh!")
+![A Goblin creature finding a mattock](/images/2022/thelonggingfindmattoc.jpg#center "Hy-oh!")
 
 
 The noble mattock is the most important tool you will ever need to explore the cave. You can use it to mine resources, expand your home, and unlock certain areas. There are about 4 of them, the first one is easy to find (hint it takes 2 weeks to access it). Two can be found near the surface, and another in the mines ( you will have to figure out how to break in though, hint: check for where the support is the weakest).
@@ -94,7 +94,7 @@ Instead, wait till you have three or all of them before trying it.
 ## 5.Ending the Game Early
 
 
-![A screenshot with the words the Longing has Ended](/images/2022/thelongingending.jpg "The End?")
+![A screenshot with the words the Longing has Ended](/images/2022/thelongingending.jpg#center "The End?")
 
 
 This is for the more impatient players out there, you will be happy to know that waiting 400 days isn´t the only way to end the game, being the main ending.
@@ -105,7 +105,7 @@ There are in total 5 endings you can get. When this game was first release you w
 But there has been updates ever since so you are free to replay the game and try to get all of them for those who you who are  completionists.
 
 
-![](/images/2022/longingendofthecave.jpg "So, close, yet so far...")
+![The main character looking at a blocked cave entrance](/images/2022/longingendofthecave.jpg#center "So, close, yet so far...")
 
 
 And Yes, you can find the exit to the cave if you explore the cave completely ( think in which direction a cave entrance would really be) If you´re worried about accidentally activating this ending if you get near the surface, don´t. All of the endings require an active method to get to them, and in one ending you are given the warning that it will end the game.
@@ -116,27 +116,26 @@ Now, there is an ultra-special ending, this one is harder to achieve especially 
 
 ## 6.Completing Objectives
 
-![](images/WCkm9p4.jpg)
+
+![A menu showing books you can read and game objectives](/images/2022/longingobjectives.jpg#center)
+
 
 Lost on what to do first? The thoughts book has a couple of objectives for you to do. They´re mostly optional, but do aid in the progress of the game. New information is also added or scribbled over as you find new things in the game.
 
 ## 7.The art tells a Story
 
-<figure>
 
-![](https://i.imgur.com/o4OhZC3.jpg?1)
+![The cave decorated with several paintings, a bed and glowing crystals in the walls](/images/2022/longingroomdecor.jpg#center "His House is a Museum
+")
 
-<figcaption>
-
-His House is a Museum
-
-</figcaption>
-
-</figure>
 
 This is not essential to complete the game but a fun little trivia I found. If you look closely, some of the paintings you make have interesting names, they give hints to things you might find in the game or the plot itself. You can mix different colors to get make them. It´s how I managed to decide what ending I really wanted. Although I would like to know the reasoning of the clown painting, just why?
 
-![](https://i.imgur.com/qa2xBWW.jpg?1)
+
+
+![A Book Page Shwoing a Poem](/images/2022/longingreading.jpg#center)
+
+
 
 Then there are the books, all these are in the public domain by the way and can be found on the Gutenberg project. Some of them have themes related to the game, and while you don´t have to sort through them all, it´s a neat way to make you reflect about the game is trying to tell you.
 
@@ -144,7 +143,7 @@ I mean one of the poems I read refers to an Underground King that promises to en
 
 ## 8.Celebrate the Shade´s Birthday
 
-![](images/uKSlkz2.jpg)
+![The main character in his house saying It´s my Birthday. Hooray.](/images/2022/longingbirthday.jpg#center)
 
 So, by now some time has passed getting closer to the 400 days mark. You may have read the Shade mentioning their birthday is near that. And perhaps something special happens that day according to the face.
 
