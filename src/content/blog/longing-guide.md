@@ -16,7 +16,7 @@ comment: true
 donate: true
 toc: true
 draft: false
-description: Since my last review, Idecided to write a small guide for this game. This will help its literal 400 days game time easier to finish. Happy Cave Diving!
+description: Since my last review, Idecided to write a small guide for this game. This will help make its literal 400 days game time easier to finish. Happy Cave Diving!
 ---
 ![The Longing Game Cover](/images/blog/the-longing-game-cover.jpg)
 
