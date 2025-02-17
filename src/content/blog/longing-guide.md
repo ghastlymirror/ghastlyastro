@@ -15,6 +15,7 @@ preview: /images/blog/the-longing-game-cover.jpg
 comment: true
 donate: true
 toc: true
+draft: true
 ---
 ![The Longing Game Cover](/images/blog/the-longing-game-cover.jpg)
 
