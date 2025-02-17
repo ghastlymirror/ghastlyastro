@@ -1,7 +1,7 @@
 ---
 title: A Guide to The Longing
 date: 2022-08-14
-categories:
+category:
   - gaming
   - walkthrough
 tags:
