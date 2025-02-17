@@ -23,7 +23,7 @@ I´m at it again, with another Game review about a surreal adventure game called
 
 ![A mutant called Paradigm on a rund down room](/images/2022/paradigmroom.jpg "Welcome to my sweet pad")
 
-The game is set in the post-apocalyptic Eastern European country of Krusz, and you play as a weirdo mutant called Paradigm, who is obsessed with "Phat beatsies’" and wants to become the best musician in the world. g
+The game is set in the post-apocalyptic Eastern European country of Krusz, and you play as a weirdo mutant called Paradigm, who is obsessed with "Phat beatsies’" and wants to become the best musician in the world. 
 
 Also, he´s the result of a Child Prodigy Genetics program from DUPA Genetics gone wrong. I mean look at him, talk about a face that a mother can only love.
 
