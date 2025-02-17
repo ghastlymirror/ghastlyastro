@@ -16,7 +16,7 @@ comment: true
 donate: true
 toc: true
 draft: false
-description: It´s been a while since I last wrote a review for this game. Decided to write a small guide for it since some people find the idea of taking 400 days to finish
+description: Since my last review, Idecided to write a small guide for this game. This will help its literal 400 days game time easier to finish. Happy Cave Diving!
 ---
 ![The Longing Game Cover](/images/blog/the-longing-game-cover.jpg)
 
