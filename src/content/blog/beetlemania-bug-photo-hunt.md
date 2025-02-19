@@ -22,9 +22,11 @@ I´m here to showcase more of my insect photography. The subject this time? Beet
 
 Also known as the order of Coleoptera, this name comes from the Greek words Koleos and pteron, meaning sheathed wing. Fitting, since they have a pair of wings hidden under a second set of armored wings. This is the largest order among animals with a variety of species that exist in almost all continents, environments including aquatic ones.
 
-**Disclaimer:** *If you have any Insect phobias, feel free to leave this post, since it´s a sensitive subject matter for some people.*
-
 So here´s all my beetles I found.
+
+:::caution
+If you have any Insect phobias, feel free to leave this post, since it´s a sensitive subject matter for some people.
+:::
 
 ## 1.Seven Spotted Lady Beetle
 

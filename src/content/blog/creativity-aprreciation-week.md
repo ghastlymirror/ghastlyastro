@@ -22,7 +22,10 @@ comment: true
 We´re now almost halfway through Blaugust, this week´s theme is appreciation for creators or things that you love, which is kinda hard for me to decide.  
 There are just so many, so I decided to make a list.
 
-**Post Edit:** *Due to the recent controversies surrounding the author Neil Gaiman, his entry has been removed from this article*
+:::note
+Due to the recent controversies surrounding the author Neil Gaiman, his entry has been removed from this article
+:::
+
 
 
 ## 1.Junji ito

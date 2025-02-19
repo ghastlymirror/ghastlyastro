@@ -18,7 +18,6 @@ ogImage: /images/blog/toontown.jpg
 ---
 ![A game poster of several cartoon characters saying We´re Back!](/images/blog/toontown.jpg)
 
-**Update:** *Both Shin Megami Tensei Re: Imagine and the FreeSo projects have been shutdown since the writting of this post, it is only here for archival purposes*
 
 No media is more condemned to becoming lost media than video games, whether it´s games that can only be played on an older system, removed from online stores, or simply the server got shut down, It can be saddening to watch your favorites relegated to just a memory.
 
@@ -29,6 +28,10 @@ But what about online gaming? After all most of the content depends on the exist
 However, where there´s a will there´s a way, and as luck would have it, a bunch of dedicated fans has brought some games back through the use of private servers and coding skills.
 
 So here are 4 projects where you can take a trip into memory lane.
+
+:::note
+Both the Shin Megami Tensei Re: Imagine and FreeSo projects have been shutdown since the writting of this post, it is only here for archival purposes
+:::
 
 ## 1. ToonTown Rewritten
 
