@@ -12,6 +12,9 @@ tags:
 ogImage: /images/blog/blaugust2022.webp
 preview: /images/blog/blaugust2022.webp
 description: We´re almost halfaway throught blaugust, this week´s them is aprrecition for your favorite creator or thing you love.  Its was to decide so I made a list.
+toc: true
+donate: true
+comment: true
 ---
 ![Blaugust 2022](/images/blog/blaugust2022.webp)
 
