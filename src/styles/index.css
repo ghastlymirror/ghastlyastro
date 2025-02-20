@@ -292,3 +292,8 @@ img[src$='#medium'] {
   margin: auto;
   width:60%;
 }
+
+img[src$='#original'] {
+  display: block;
+  margin: auto;
+}

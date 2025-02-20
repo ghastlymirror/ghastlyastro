@@ -7,7 +7,7 @@ category:
 tags:
   - educational
   - indie
-  - visual-novel
+  - visual novel
   - blaugust
 preview: /images/blog/astrologer.jpg
 ogImage: /images/blog/astrologer.jpg
