@@ -14,7 +14,7 @@ preview: /images/blog/machinarium.jpg
 toc: true
 donate: true
 comment: true
-description: It´s often easy for most point and click adventure games to fall on the same formula, however this quirkly game stood out to be gathering a cult following.
+description: It´s often easy for most point and click adventure games to fall on the same formula, however this quirkly game stood out to be and gathered a cult following.
 ---
 ![Machinarium Game Poster](/images/blog/machinarium.jpg)
 
