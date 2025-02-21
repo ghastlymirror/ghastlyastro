@@ -14,6 +14,7 @@ toc: true
 donate: true
 comment: true
 ogImage: /images/blog/wailing-heights-poster.jpg
+preview: /images/blog/wailing-heights-poster.jpg
 
 ---
 
@@ -23,4 +24,5 @@ ogImage: /images/blog/wailing-heights-poster.jpg
 
 After having some fun walking around as a zombie, I finally managed to get Ida to sing, and it´s a catchy tune. Also been around asking for more limericks.
 
-:btn[**Previous Video**]{href="https://www.ghastlymirror.xyz/blog/wailing-heights3"}  
+:btn[**Previous Video**]{href="https://www.ghastlymirror.xyz/blog/wailing-heights3"}  :btn[**Next**]{href="https://www.ghastlymirror.xyz/blog/wailing-heights5"}  
+
