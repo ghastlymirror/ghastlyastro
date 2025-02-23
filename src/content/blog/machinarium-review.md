@@ -1,5 +1,5 @@
 ---
-title: Machinarium Review - An Robotic Adventure
+title: Machinarium Review - A Robotic Adventure
 date: 2022-08-25
 category:
   - gaming
