@@ -390,12 +390,6 @@ export const friendshipLinks =
   description: " Blog and Artwork by Karin Ogren"
 },
 
-{
-  name: "Binary Digit",
-  url: "https://binarydigit.cafe/",
-  avatar: "/images/blogroll/binarydigit.png",
-  description: " A little Digital Cafe on The Internet"
-},
 
 {
   name: "The New Leaf Journal",

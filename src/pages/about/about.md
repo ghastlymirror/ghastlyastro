@@ -4,7 +4,7 @@ comment: false
 ---
 
 ## About Me
-Hello, I´m mostly known as ghastly or ghastlymirror in these parts. Amateur Nature photographer, blogger, horror movie fan and gamer.
+Hello, I´m mostly known as Ghastly or ghastlymirror in these parts. Amateur Nature photographer, blogger, horror movie fan and gamer.
 My first introduction to gaming was throught 90s edutaiment games and racing games like Grand Pix 2, and haven´t stop since. I specially like to explore old games, specially ones I wans´t able to play during childhood.
 
 When not exploring virtual worlds, I like to go on nature hikes and bird watching. 
