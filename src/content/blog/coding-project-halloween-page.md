@@ -12,6 +12,7 @@ ogImage: /images/blog/halloweencode.png
 donate: true
 comment: true
 toc: false
+description: It is the start of October, the scariest month of the year where people decorate their homes. As for me I the next best thing decorate my home on the web.
 ---
 ![halloween page with a jack o lantern and candy](/images/blog/halloweencode.png)
 
