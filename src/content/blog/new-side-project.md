@@ -3,8 +3,9 @@ title: Got busy with a new side project
 date: 2022-06-29
 category:
   - blogging
-  - coding
+  - projects
 tags:
+  - coding
   - updates
   - writting
 description: I´ve been focusing mostly in crafting and old-school website on neocities. Here´s what motivated me to take the leap to coding a personal homepage of my own.

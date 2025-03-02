@@ -1,7 +1,7 @@
 ---
 title: Game Graveyard - Atlus Shuts Down MMO FanProject
 date: 2022-10-02
-categories:
+category:
   - gaming
   - news
 tags:
