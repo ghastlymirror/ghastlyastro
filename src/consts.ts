@@ -16,12 +16,11 @@ import {AnalyticsConfig} from "./types/analyticsTypes"
  * postPageSize {number} Number of articles on blog pages
  * feedPageSize {number} Number of articles on feed pages
  * beian {string} Chinese policy
-  * asideTagsMaxSize {number}
+ * asideTagsMaxSize {number}
  *    0: disable,
  *    > 0: display the limited number of tags in the sidebar
  *    All tags will be displayed in single page "/tags".
  */
-
 export const site = {
   title: 'The Ghastly Mirror 👻', // required
   favicon: '/favicon.svg', // required
@@ -38,7 +37,6 @@ export const site = {
   asideTagsMaxSize: 0,
 }
 
-
 /**
  * busuanzi {boolean} link: https://busuanzi.ibruce.info/
  * lang {string} Default website language
@@ -51,7 +49,6 @@ export const site = {
 export const config = {
   lang: 'en', // en | zh-cn | zh-Hant | cs
   codeFoldingStartLines: 16, // Need to re-run the project to take effect
- 
 
   // memos config
   memosUrl: '', // https://xxxx.xxx.xx
@@ -72,44 +69,31 @@ export const categories = [
     iconClass: "ri-draft-line",
     href: "/blog/1",
   },
-
- 
- 
+  {
+    name: "Feed",
+    iconClass: "ri-lightbulb-flash-line",
+    href: "/feed/1",
+  },
+  // {
+  //   name: "Memos",
+  //   iconClass: "ri-quill-pen-line",
+  //   href: "/memos",
+  // },
   {
     name: "Archive",
     iconClass: "ri-archive-line",
     href: "/archive/1",
   },
-
   {
-    name: "Backlog",
-    iconClass: "ri-gamepad-line",
-    href: "https://www.backloggd.com/u/GhastlyMirror/",
+    name: "Message",
+    iconClass: "ri-chat-1-line",
+    href: "/message",
   },
-
-  {
-    name: "Achievements",
-    iconClass: "ri-medal-line",
-    href: "https://www.exophase.com/user/ghastlymirror/",
-  },
-
-
-
-  {
-    name: 'Now',
-    iconClass: 'ri-pushpin-line',
-    
-    href: '/now',
-  },
- 
   {
     name: "Search",
     iconClass: "ri-search-line",
     href: "/search",
   },
- 
-  
-
   {
     name: "More",
     iconClass: "ri-more-fill",
@@ -121,38 +105,14 @@ export const categories = [
         href: '/about',
       },
       {
-        name: 'Blogroll',
+        name: 'Friends',
         iconClass: 'ri-user-5-line',
-        href: '/blogroll',
+        href: '/friends',
         target: '_self',
       },
-
-      {
-        name: "Message",
-        iconClass: "ri-chat-1-line",
-        href: "/message",
-      },
-      {
-        name: "Feed",
-        iconClass: "ri-lightbulb-flash-line",
-        href: "/feed/1",
-      },
-
-      {
-        name: "Disclaimer",
-        iconClass: "ri-megaphone-line",
-        href: "/disclaimer",
-      },
-
     ]
   }
 ]
-  // {
-  //   name: "Memos",
-  //   iconClass: "ri-quill-pen-line",
-  //   href: "/memos",
-  // },
-
 
 /**
  * Personal link address
@@ -189,7 +149,6 @@ export const infoLinks = [
     outlink: 'https://www.ghastlymirror.xyz/rss.xml',
   }
 ]
-
 /**
  * donate
  * enable {boolean}
@@ -204,9 +163,6 @@ export const donate = {
 
   kofiUrl: "https://ko-fi.com/ghastlymirror",
 }
-
-
-
 /**
  * Friendship Links Page
  * name {string}
@@ -418,6 +374,7 @@ export const friendshipLinks =
 
   ]
 
+
 /**
  * Comment Feature
  * enable {boolean}
@@ -433,7 +390,7 @@ export const friendshipLinks =
  * walineConfig.whiteList {string[]} set some pages not to display reaction
  */
 export const comment = {
-  enable: true,
+  enable: false,
   type: 'giscus', // waline | giscus,
   walineConfig: {
     serverUrl: "",
@@ -447,9 +404,9 @@ export const comment = {
     whiteList: ['/message/', '/friends/'],
   },
 
-    // giscus config
-    giscusConfig: {
-      'data-repo': "ghastlymirror/ghastlyastro",
+  // giscus config
+  giscusConfig: {
+    'data-repo': "ghastlymirror/ghastlyastro",
       'data-repo-id': "R_kgDONS7skg",
       'data-category': "Announcements",
       'data-category-id': "DIC_kwDONS7sks4CkfYs",
@@ -461,19 +418,19 @@ export const comment = {
       'data-theme': "light",
       'data-lang': "en",
       'crossorigin': "anonymous",
-    }
-  
   }
 
-  /**
+  //
+}
+
+/**
  * Analytics Feature Configuration
  *
  * This file centralizes the analytics configuration for the application.
  * It defines and exports the default settings for Umami and Google Analytics.
  */
-
 export const analytics: AnalyticsConfig = {
-  enable: true,
+  enable: false,
   umamiConfig: {
     enable: true,
     id: "081341e0-724a-4627-8ed2-7944311d27b3",

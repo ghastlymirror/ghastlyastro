@@ -8,7 +8,7 @@
 
 一款以内容为主的Astro博客主题————Yi，快速和简洁。
 
-![](https://astro-yi.obs.cn-east-3.myhuaweicloud.com/7.png)
+![](https://astro-yi.obs.cn-east-3.myhuaweicloud.com/9.png)
 
 ![](https://astro-yi.obs.cn-east-3.myhuaweicloud.com/1.png)
 
@@ -262,6 +262,27 @@ export const comment = {
     'crossorigin': "anonymous",
   }
 }
+
+/**
+ * Analytics Feature Configuration
+ * enable: {boolean} 这个必须启用才能使用其他的配置项
+ * This file centralizes the analytics configuration for the application.
+ * It defines and exports the default settings for Umami and Google Analytics.
+ * busuanzi {boolean}
+ */
+export const analytics: AnalyticsConfig = {
+  enable: false,
+  umamiConfig: {
+    enable: false,
+    id: "",
+    url: ""
+  },
+  gaConfig: {
+    enable: false,
+    id: ""
+  },
+  busuanzi: false,
+};
 ```
 
 
@@ -269,7 +290,7 @@ export const comment = {
 
 ### 备注
 
-在根目录中的 astro.config.mjs 文件中，建议修改 site 属性以正确生成网站地图。
+在根目录中的 astro.config.js 文件中，建议修改 site 属性以正确生成网站地图。
 
 ```js
 export default defineConfig({
