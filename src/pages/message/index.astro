@@ -1,15 +1,17 @@
 ---
 import IndexPage from "src/layouts/IndexPage.astro";
-import {comment} from "../../consts";
 
-import {t} from '../../i18n/utils'
+let posts = await Astro.glob("./message.md");
+let {Content, frontmatter} = posts[0];
+
+
 ---
 
-<IndexPage frontmatter={{comment: comment.enable, donate: false,}}>
-  <div class="flex text-xl underline-offset-4 font-bold">
-    {t('message.welcome')}
-  </div>
-  <div>
-    {t('message.welcomeTips')}
-  </div>
+<IndexPage frontmatter={frontmatter}>
+  <article class="markdown-body">
+    <Content/>
+  </article>
+
+<script data-letterbirduser="ghastlymirror" src="https://letterbird.co/embed/v1.js"></script>
 </IndexPage>
+
